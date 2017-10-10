@@ -1,0 +1,136 @@
+
+Exception handled 2012-02-13 at 16:14:32 by MainExceptionHandler
+Invalid property value
+Exception Address: 004C4DE5
+Information about Source of Exception
+Unit: 
+Method: 
+Line: 0
+
+Exception handled 2012-02-13 at 16:14:37 by MainExceptionHandler
+'/' is not a valid integer value
+Exception Address: 00408CA6
+Information about Source of Exception
+Unit: 
+Method: 
+Line: 0
+
+Exception handled 2012-02-13 at 16:14:46 by MainExceptionHandler
+Invalid property value
+Exception Address: 004C4DE5
+Information about Source of Exception
+Unit: 
+Method: 
+Line: 0
+
+Exception handled 2012-02-13 at 16:14:50 by MainExceptionHandler
+Invalid property value
+Exception Address: 004C4DE5
+Information about Source of Exception
+Unit: 
+Method: 
+Line: 0
+
+Exception handled 2012-02-13 at 16:15:06 by MainExceptionHandler
+Invalid property value
+Exception Address: 004C4DE5
+Information about Source of Exception
+Unit: 
+Method: 
+Line: 0
+
+Exception handled 2012-02-13 at 16:15:32 by MainExceptionHandler
+Invalid property value
+Exception Address: 004C4DE5
+Information about Source of Exception
+Unit: 
+Method: 
+Line: 0
+
+Exception handled 2012-02-13 at 16:16:00 by MainExceptionHandler
+Invalid property value
+Exception Address: 004C4DE5
+Information about Source of Exception
+Unit: 
+Method: 
+Line: 0
+
+Exception handled 2012-03-24 at 15:57:04 by MainExceptionHandler
+'1200\' is not a valid integer value
+Exception Address: 00408CA6
+Information about Source of Exception
+Unit: 
+Method: 
+Line: 0
+
+Exception handled 2012-03-30 at 17:50:30 by MainExceptionHandler
+'g2' is not a valid integer value
+Exception Address: 00408CA6
+Information about Source of Exception
+Unit: 
+Method: 
+Line: 0
+
+Exception handled 2012-04-14 at 20:11:26 by MainExceptionHandler
+Property inspector is changing property value. Can not change objects
+Exception Address: 004C2B23
+Information about Source of Exception
+Unit: 
+Method: 
+Line: 0
+
+Exception handled 2012-04-14 at 20:11:30 by MainExceptionHandler
+Property inspector is changing property value. Can not change objects
+Exception Address: 004C2B23
+Information about Source of Exception
+Unit: 
+Method: 
+Line: 0
+
+Exception handled 2012-04-14 at 20:11:34 by MainExceptionHandler
+Property inspector is changing property value. Can not change objects
+Exception Address: 004C2B23
+Information about Source of Exception
+Unit: 
+Method: 
+Line: 0
+
+Exception handled 2012-05-05 at 17:05:06 by MainExceptionHandler
+'' is not a valid integer value
+Exception Address: 00408CA6
+Information about Source of Exception
+Unit: 
+Method: 
+Line: 0
+
+Exception handled 2012-05-05 at 18:16:48 by MainExceptionHandler
+Property inspector is changing property value. Can not change objects
+Exception Address: 004C2B23
+Information about Source of Exception
+Unit: 
+Method: 
+Line: 0
+
+Exception handled 2012-07-17 at 15:15:07 by MainExceptionHandler
+Cannot open file "G:\gif\Form1.kxf". System nie mo¿e odnaleŸæ okreœlonej œcie¿ki
+Exception Address: 0041FA6A
+Information about Source of Exception
+Unit: 
+Method: 
+Line: 0
+
+Exception handled 2012-07-17 at 15:15:30 by MainExceptionHandler
+Cannot open file "C:\Documents and Settings\Admin\Pulpit\gif\Form1.kxf". System nie mo¿e odnaleŸæ okreœlonej œcie¿ki
+Exception Address: 0041FA6A
+Information about Source of Exception
+Unit: 
+Method: 
+Line: 0
+
+Exception handled 2012-07-17 at 15:15:39 by MainExceptionHandler
+Cannot open file "C:\Documents and Settings\Admin\Moje dokumenty\ja\koda\Forms\test.kxf". System nie mo¿e odnaleŸæ okreœlonej œcie¿ki
+Exception Address: 0041FA6A
+Information about Source of Exception
+Unit: 
+Method: 
+Line: 0

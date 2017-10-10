@@ -1,0 +1,53 @@
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Sat, 08 Jun 2013 18:29:56 GMT
+Server: lighttpd (Gentoo Linux)
+
+3f2
+
+<!-- (C) stat24 / podstrony -->
+<script type="text/javascript">
+<!--
+document.writeln('<'+'scr'+'ipt type="text/javascript" src="http://s4.hit.stat24.com/_'+(new Date()).getTime()+'/script.js?id=oqHgIrO1f9rW7Iu_GFbKc5dSfQTs94eUtXLdy_QHC0P.Y7/l=11"></'+'scr'+'ipt>');
+//-->
+</script>
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+HTTP/1.0 400 Bad Request
+Content-Type: text/html
+Content-Length: 349
+Connection: close
+Date: Sat, 08 Jun 2013 18:29:56 GMT
+Server: lighttpd (Gentoo Linux)
+
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>400 - Bad Request</title>
+ </head>
+ <body>
+  <h1>400 - Bad Request</h1>
+ </body>
+</html>

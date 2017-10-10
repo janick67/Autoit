@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<object type="TAForm" name="Form1">
+	<properties>
+		<property name="Left" vt="Int16">-143</property>
+		<property name="Top" vt="Int16">228</property>
+		<property name="Width" vt="Int16">1408</property>
+		<property name="Height" vt="Int16">376</property>
+		<property name="Caption" vt="String">Form1</property>
+		<property name="Color" vt="Ident">clBtnFace</property>
+		<property name="Font.Charset" vt="Ident">DEFAULT_CHARSET</property>
+		<property name="Font.Color" vt="Ident">clWindowText</property>
+		<property name="Font.Height" vt="Int8">-11</property>
+		<property name="Font.Name" vt="String">MS Sans Serif</property>
+		<property name="Font.Style" vt="Set"/>
+		<property name="OldCreateOrder" vt="False">False</property>
+		<property name="Visible" vt="True">True</property>
+		<property name="Style" vt="Int32">-1798701056</property>
+		<property name="ExStyle" vt="Int16">256</property>
+		<property name="Version" vt="String">1.04</property>
+		<property name="FormOptIndentCount" vt="Int8">0</property>
+		<property name="PixelsPerInch" vt="Int8">96</property>
+		<property name="TextHeight" vt="Int8">13</property>
+	</properties>
+	<components>
+		<object type="TAPic" name="Pic3">
+			<properties>
+				<property name="Left" vt="Int8">0</property>
+				<property name="Top" vt="Int16">297</property>
+				<property name="Width" vt="Int16">1400</property>
+				<property name="Height" vt="Int8">45</property>
+				<property name="CtrlStyle" vt="Int32">1417806095</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">C:\Documents and Settings\Admin\Pulpit\Trawa.bmp</property>
+				<property name="Picture.Data" vt="Binary"/>
+				<property name="TabOrder" vt="Int8">0</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic2">
+			<properties>
+				<property name="Left" vt="Int16">216</property>
+				<property name="Top" vt="Int16">200</property>
+				<property name="Width" vt="Int8">100</property>
+				<property name="Height" vt="Int8">36</property>
+				<property name="CtrlStyle" vt="Int32">1409417487</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">C:\Documents and Settings\Admin\Pulpit\Trawa.bmp</property>
+				<property name="Picture.Data" vt="Binary"/>
+				<property name="TabOrder" vt="Int8">1</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic1">
+			<properties>
+				<property name="Left" vt="Int8">16</property>
+				<property name="Top" vt="Int16">248</property>
+				<property name="Width" vt="Int8">35</property>
+				<property name="Height" vt="Int8">50</property>
+				<property name="CtrlStyle" vt="Int32">1409417487</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">C:\Documents and Settings\Admin\Pulpit\ja.bmp</property>
+				<property name="Picture.Data" vt="Binary"/>
+				<property name="TabOrder" vt="Int8">2</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic4">
+			<properties>
+				<property name="Left" vt="Int8">80</property>
+				<property name="Top" vt="Int16">265</property>
+				<property name="Width" vt="Int8">20</property>
+				<property name="Height" vt="Int8">20</property>
+				<property name="CtrlStyle" vt="Int32">1409417487</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">C:\Documents and Settings\Admin\Pulpit\moneta.bmp</property>
+				<property name="Picture.Data" vt="Binary"/>
+				<property name="TabOrder" vt="Int8">3</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic5">
+			<properties>
+				<property name="Left" vt="Int8">112</property>
+				<property name="Top" vt="Int16">265</property>
+				<property name="Width" vt="Int8">20</property>
+				<property name="Height" vt="Int8">20</property>
+				<property name="CtrlStyle" vt="Int32">1409417487</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">C:\Documents and Settings\Admin\Pulpit\moneta.bmp</property>
+				<property name="Picture.Data" vt="Binary"/>
+				<property name="TabOrder" vt="Int8">4</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic6">
+			<properties>
+				<property name="Left" vt="Int16">148</property>
+				<property name="Top" vt="Int16">265</property>
+				<property name="Width" vt="Int8">20</property>
+				<property name="Height" vt="Int8">20</property>
+				<property name="CtrlStyle" vt="Int32">1409417487</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">C:\Documents and Settings\Admin\Pulpit\moneta.bmp</property>
+				<property name="Picture.Data" vt="Binary"/>
+				<property name="TabOrder" vt="Int8">5</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic7">
+			<properties>
+				<property name="Left" vt="Int16">231</property>
+				<property name="Top" vt="Int16">175</property>
+				<property name="Width" vt="Int8">20</property>
+				<property name="Height" vt="Int8">20</property>
+				<property name="CtrlStyle" vt="Int32">1409417487</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">C:\Documents and Settings\Admin\Pulpit\moneta.bmp</property>
+				<property name="Picture.Data" vt="Binary"/>
+				<property name="TabOrder" vt="Int8">6</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic8">
+			<properties>
+				<property name="Left" vt="Int16">275</property>
+				<property name="Top" vt="Int16">176</property>
+				<property name="Width" vt="Int8">20</property>
+				<property name="Height" vt="Int8">20</property>
+				<property name="CtrlStyle" vt="Int32">1409417487</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">C:\Documents and Settings\Admin\Pulpit\moneta.bmp</property>
+				<property name="Picture.Data" vt="Binary"/>
+				<property name="TabOrder" vt="Int8">7</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic9">
+			<properties>
+				<property name="Left" vt="Int16">270</property>
+				<property name="Top" vt="Int16">248</property>
+				<property name="Width" vt="Int8">35</property>
+				<property name="Height" vt="Int8">50</property>
+				<property name="CtrlStyle" vt="Int32">1409417487</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="UTF8String">C:\Documents and Settings\Admin\Pulpit\Potwуr.bmp</property>
+				<property name="Picture.Data" vt="Binary"/>
+				<property name="TabOrder" vt="Int8">8</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic10">
+			<properties>
+				<property name="Left" vt="Int16">808</property>
+				<property name="Top" vt="Int8">104</property>
+				<property name="Width" vt="Int8">100</property>
+				<property name="Height" vt="Int8">100</property>
+				<property name="CtrlStyle" vt="Int32">1409417487</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">C:\Documents and Settings\Admin\Pulpit\Trawa.bmp</property>
+				<property name="Picture.Data" vt="Binary"/>
+				<property name="TabOrder" vt="Int8">9</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic11">
+			<properties>
+				<property name="Left" vt="Int16">1121</property>
+				<property name="Top" vt="Int16">142</property>
+				<property name="Width" vt="Int8">100</property>
+				<property name="Height" vt="Int8">100</property>
+				<property name="CtrlStyle" vt="Int32">1409417487</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">C:\Documents and Settings\Admin\Pulpit\Trawa.bmp</property>
+				<property name="Picture.Data" vt="Binary"/>
+				<property name="TabOrder" vt="Int8">10</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic12">
+			<properties>
+				<property name="Left" vt="Int16">489</property>
+				<property name="Top" vt="Int16">141</property>
+				<property name="Width" vt="Int8">100</property>
+				<property name="Height" vt="Int8">100</property>
+				<property name="CtrlStyle" vt="Int32">1409417487</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">C:\Documents and Settings\Admin\Pulpit\Trawa.bmp</property>
+				<property name="Picture.Data" vt="Binary"/>
+				<property name="TabOrder" vt="Int8">11</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic13">
+			<properties>
+				<property name="Left" vt="Int16">1281</property>
+				<property name="Top" vt="Int16">166</property>
+				<property name="Width" vt="Int8">100</property>
+				<property name="Height" vt="Int8">100</property>
+				<property name="CtrlStyle" vt="Int32">1409417487</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">C:\Documents and Settings\Admin\Pulpit\Trawa.bmp</property>
+				<property name="Picture.Data" vt="Binary"/>
+				<property name="TabOrder" vt="Int8">12</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+	</components>
+</object>

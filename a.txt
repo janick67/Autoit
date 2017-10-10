@@ -1,0 +1,33 @@
+[1]
+p=8
+iloraz=2
+o= dobrany prawidBowo
+[2]
+o= dobrany bBdnie (wybraBe[ <b>10</b>, nie udaBo si ustali czy to za du|o czy za maBo - próbuj dalej)
+[3]
+o= dobrany prawidBowo
+[4]
+o= dobrany prawidBowo
+[]
+iloraz=10
+[11]
+o=
+[odczyt]
+2=3
+7=3
+8=3
+4=4
+5=6
+3=7
+6=7
+1=9
+[$l]
+=8
+[5]
+o= dobrany prawidBowo
+[6]
+o= dobrany prawidBowo
+[7]
+o= dobrany bBdnie (ustawiBe[ za du|o, wybraBe[ <b>10</b>)
+[8]
+o= dobrany bBdnie (wybraBe[ <b>10</b>, nie udaBo si ustali czy to za du|o czy za maBo - próbuj dalej)

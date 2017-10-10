@@ -1,0 +1,336 @@
+starts at 2017-09-23 09:39
+starts at 2017-09-23 09:40
+koniec programu 09-23 09:40 bo nie po³¹czy³ siê
+
+starts at 2017-09-23 09:43
+starts at 2017-09-23 12:20
+koniec konnych 09-23 12:30 bo Skonczyly sie wioski (do pierwszej) wyslano 449 atakow
+Czas: 11
+koniec piechoty 09-23 12:35 bo Skonczyly sie wioski (szara strzalka) wyslano 146 atakow
+Czas: 5
+
+starts at 2017-09-23 14:11
+koniec konnych 09-23 14:24 bo Skonczyly sie wioski (do pierwszej) wyslano 513 atakow
+Czas: 12
+koniec piechoty 09-23 14:26 bo Skonczyly sie wioski (do pierwszej) wyslano 41 atakow
+Czas: 2
+
+starts at 2017-09-23 15:39
+starts at 2017-09-23 15:39
+koniec konnych 09-23 15:51 bo Skonczyly sie wioski (do pierwszej) wyslano 412 atakow
+Czas: 11
+koniec piechoty 09-23 15:54 bo Skonczyly sie wioski (do pierwszej) wyslano 56 atakow
+Czas: 3
+
+starts at 2017-09-23 17:42
+koniec konnych 09-23 17:55 bo Skonczyly sie wioski (do pierwszej) wyslano 558 atakow
+Czas: 13
+koniec piechoty 09-23 17:58 bo Skonczyly sie wioski (do pierwszej) wyslano 82 atakow
+Czas: 3
+
+starts at 2017-09-23 22:07
+koniec konnych 09-23 22:29 bo uplynal czas 30 min wyslano 884 atakow
+Czas: 21
+koniec piechoty 09-23 22:37 bo Skonczyly sie wioski (do pierwszej) wyslano 133 atakow
+Czas: 8
+
+starts at 2017-09-24 07:31
+koniec konnych 09-24 07:46 bo uplynal czas 30 min wyslano 676 atakow
+Czas: 15
+koniec piechoty 09-24 07:56 bo Skonczyly sie wioski (do pierwszej) wyslano 317 atakow
+Czas: 10
+
+starts at 2017-09-24 09:59
+koniec konnych 09-24 10:17 bo uplynal czas 30 min wyslano 680 atakow
+Czas: 18
+koniec piechoty 09-24 10:22 bo Skonczyly sie wioski (do pierwszej) wyslano 131 atakow
+Czas: 5
+
+starts at 2017-09-24 12:13
+koniec konnych 09-24 12:26 bo Skonczyly sie wioski (do pierwszej) wyslano 561 atakow
+Czas: 13
+koniec piechoty 09-24 12:30 bo Skonczyly sie wioski (do pierwszej) wyslano 105 atakow
+Czas: 4
+
+starts at 2017-09-24 16:09
+koniec konnych 09-24 16:29 bo uplynal czas 30 min wyslano 750 atakow
+Czas: 20
+koniec piechoty 09-24 16:43 bo zrobilo 111 wiosek wyslano 216 atakow
+Czas: 14
+
+starts at 2017-09-24 21:06
+koniec konnych 09-24 21:23 bo uplynal czas 30 min wyslano 783 atakow
+Czas: 17
+koniec piechoty 09-24 21:32 bo zrobilo 111 wiosek wyslano 173 atakow
+Czas: 8
+
+starts at 2017-09-24 22:26
+koniec konnych 09-24 22:32 bo Skonczyly sie wioski (do pierwszej) wyslano 261 atakow
+Czas: 6
+koniec piechoty 09-24 22:34 bo nie znaleziono tabelki z poprzednich atakow wyslano 50 atakow
+Czas: 2
+
+starts at 2017-09-25 17:08
+koniec programu 09-25 17:08 bo nie po³¹czy³ siê
+
+starts at 2017-09-25 17:08
+koniec programu 09-25 17:08 bo nie po³¹czy³ siê
+
+starts at 2017-09-25 17:09
+koniec programu 09-25 17:09 bo nie po³¹czy³ siê
+
+starts at 2017-09-25 17:12
+koniec konnych 09-25 17:20 bo Skonczyly sie wioski (do pierwszej) wyslano 417 atakow
+Czas: 9
+koniec piechoty 09-25 17:22 bo nie znaleziono tabelki z poprzednich atakow wyslano 51 atakow
+Czas: 2
+
+starts at 2017-09-25 18:11
+koniec konnych 09-25 18:22 bo zrobilo 111 wiosek wyslano 269 atakow
+Czas: 10
+koniec piechoty 09-25 18:35 bo zrobilo 111 wiosek wyslano 416 atakow
+Czas: 13
+
+starts at 2017-09-25 18:52
+koniec konnych 09-25 18:59 bo Skonczyly sie wioski (do pierwszej) wyslano 210 atakow
+Czas: 6
+starts at 2017-09-25 22:39
+starts at 2017-09-25 22:47
+koniec konnych 09-25 22:48 bo wykryto slowo ochrona na stronie wyslano 44 atakow
+Czas: 1
+koniec piechoty 09-25 22:49 bo wykryto slowo ochrona na stronie wyslano 16 atakow
+Czas: 0
+
+starts at 2017-09-25 23:01
+starts at 2017-09-25 23:23
+koniec konnych 09-25 23:24 bo nie znaleziono tabelki z poprzednich atakow wyslano 37 atakow
+Czas: 1
+koniec piechoty 09-25 23:24 bo nie znaleziono tabelki z poprzednich atakow wyslano 0 atakow
+Czas: 0
+
+starts at 2017-09-25 23:24
+koniec konnych 09-25 23:32 bo Skonczyly sie wioski (do pierwszej) wyslano 334 atakow
+Czas: 8
+koniec piechoty 09-25 23:37 bo nie znaleziono tabelki z poprzednich atakow wyslano 149 atakow
+Czas: 5
+
+starts at 2017-09-26 17:24
+koniec konnych 09-26 17:34 bo Skonczyly sie wioski (do pierwszej) wyslano 394 atakow
+Czas: 11
+koniec piechoty 09-26 17:43 bo zrobilo 111 wiosek wyslano 103 atakow
+Czas: 9
+
+starts at 2017-09-26 21:08
+starts at 2017-09-26 21:08
+starts at 2017-09-26 21:14
+starts at 2017-09-26 21:16
+starts at 2017-09-26 21:20
+starts at 2017-09-26 21:22
+starts at 2017-09-26 21:23
+starts at 2017-09-26 21:24
+starts at 2017-09-26 21:25
+starts at 2017-09-26 21:26
+starts at 2017-09-26 21:27
+starts at 2017-09-26 21:28
+starts at 2017-09-26 21:29
+starts at 2017-09-26 21:34
+starts at 2017-09-26 21:34
+starts at 2017-09-26 21:36
+starts at 2017-09-26 21:39
+starts at 2017-09-26 21:39
+starts at 2017-09-26 21:42
+starts at 2017-09-26 21:43
+starts at 2017-09-26 21:44
+starts at 2017-09-26 21:45
+starts at 2017-09-26 21:48
+starts at 2017-09-26 21:49
+starts at 2017-09-26 21:52
+starts at 2017-09-26 21:54
+starts at 2017-09-26 22:14
+koniec konnych 09-26 22:32 bo uplynal czas 30 min wyslano 677 atakow
+Czas: 18
+starts at 2017-09-26 22:40
+koniec konnych 09-26 22:41 bo Skonczyly sie wioski (do pierwszej) wyslano 48 atakow
+Czas: 2
+koniec piechoty 09-26 22:43 bo wykryto slowo ochrona na stronie wyslano 41 atakow
+Czas: 1
+
+starts at 2017-09-26 22:44
+koniec konnych 09-26 22:44 bo Skonczyly sie wioski (do pierwszej) wyslano 6 atakow
+Czas: 0
+koniec piechoty 09-26 22:48 bo Skonczyly sie wioski (szara strzalka) wyslano 127 atakow
+Czas: 3
+
+starts at 2017-09-26 23:25
+starts at 2017-09-26 23:25
+starts at 2017-09-26 23:33
+starts at 2017-09-26 23:33
+starts at 2017-09-26 23:34
+starts at 2017-09-26 23:34
+starts at 2017-09-26 23:41
+starts at 2017-09-26 23:43
+starts at 2017-09-27 08:58
+starts at 2017-09-27 08:58
+starts at 2017-09-27 09:25
+starts at 2017-09-27 09:26
+starts at 2017-09-27 09:27
+starts at 2017-09-27 10:09
+koniec konnych 09-27 10:09 bo wykryto slowo ochrona na stronie wyslano 9 atakow
+Czas: 0
+koniec piechoty 09-27 10:09 bo nie znaleziono tabelki z poprzednich atakow wyslano 4 atakow
+Czas: 0
+
+starts at 2017-09-27 10:10
+starts at 2017-09-27 10:11
+koniec konnych 09-27 10:35 bo uplynal czas 30 min wyslano 688 atakow
+Czas: 24
+starts at 2017-09-27 10:37
+koniec konnych 09-27 10:37 bo Skonczyly sie wioski (do pierwszej) wyslano 3 atakow
+Czas: 0
+starts at 2017-09-27 12:56
+koniec konnych 09-27 13:08 bo Skonczyly sie wioski (do pierwszej) wyslano 387 atakow
+Czas: 11
+koniec piechoty 09-27 13:21 bo Skonczyly sie wioski (do pierwszej) wyslano 363 atakow
+Czas: 13
+
+starts at 2017-09-27 15:08
+koniec konnych 09-27 15:14 bo Skonczyly sie wioski (do pierwszej) wyslano 267 atakow
+Czas: 6
+koniec piechoty 09-27 15:18 bo Skonczyly sie wioski (do pierwszej) wyslano 108 atakow
+Czas: 3
+
+starts at 2017-09-27 15:57
+koniec konnych 09-27 15:59 bo Skonczyly sie wioski (do pierwszej) wyslano 44 atakow
+Czas: 1
+starts at 2017-09-27 17:23
+koniec konnych 09-27 17:26 bo Skonczyly sie wioski (do pierwszej) wyslano 103 atakow
+Czas: 2
+starts at 2017-09-27 20:26
+koniec konnych 09-27 20:32 bo Skonczyly sie wioski (do pierwszej) wyslano 251 atakow
+Czas: 6
+starts at 2017-09-27 22:19
+koniec konnych 09-27 22:19 bo Skonczyly sie wioski (do pierwszej) wyslano 2 atakow
+Czas: 0
+starts at 2017-09-27 22:19
+koniec konnych 09-27 22:22 bo Skonczyly sie wioski (do pierwszej) wyslano 75 atakow
+Czas: 2
+starts at 2017-09-28 17:52
+koniec konnych 09-28 18:11 bo uplynal czas 30 min wyslano 811 atakow
+Czas: 18
+starts at 2017-09-28 22:09
+starts at 2017-09-28 22:41
+koniec konnych 09-28 23:01 bo uplynal czas 30 min wyslano 905 atakow
+Czas: 20
+starts at 2017-09-29 17:40
+koniec konnych 09-29 18:03 bo uplynal czas 30 min wyslano 1006 atakow
+Czas: 23
+koniec piechoty 09-29 18:16 bo zrobilo 111 wiosek wyslano 388 atakow
+Czas: 13
+
+starts at 2017-09-30 00:55
+koniec konnych 09-30 01:03 bo nie znaleziono tabelki z poprzednich atakow wyslano 364 atakow
+Czas: 8
+starts at 2017-09-30 01:05
+koniec konnych 09-30 01:16 bo Skonczyly sie wioski (do pierwszej) wyslano 526 atakow
+Czas: 11
+koniec piechoty 09-30 01:27 bo zrobilo 111 wiosek wyslano 360 atakow
+Czas: 11
+
+starts at 2017-09-30 06:37
+koniec konnych 09-30 06:58 bo uplynal czas 30 min wyslano 974 atakow
+Czas: 21
+koniec piechoty 09-30 07:09 bo zrobilo 111 wiosek wyslano 316 atakow
+Czas: 11
+
+starts at 2017-09-30 15:52
+koniec konnych 09-30 16:11 bo uplynal czas 30 min wyslano 838 atakow
+Czas: 19
+starts at 2017-09-30 16:39
+koniec konnych 09-30 16:44 bo Skonczyly sie wioski (do pierwszej) wyslano 150 atakow
+Czas: 5
+starts at 2017-09-30 19:26
+koniec programu 09-30 19:26 bo nie po³¹czy³ siê
+
+starts at 2017-09-30 19:28
+koniec konnych 09-30 19:46 bo uplynal czas 30 min wyslano 865 atakow
+Czas: 17
+starts at 2017-09-30 22:39
+koniec konnych 09-30 22:56 bo uplynal czas 30 min wyslano 771 atakow
+Czas: 17
+starts at 2017-10-01 07:29
+koniec konnych 10-01 07:50 bo uplynal czas 30 min wyslano 879 atakow
+Czas: 20
+starts at 2017-10-01 09:51
+koniec konnych 10-01 10:04 bo Skonczyly sie wioski (do pierwszej) wyslano 580 atakow
+Czas: 13
+starts at 2017-10-01 16:17
+koniec konnych 10-01 16:21 bo wykryto slowo ochrona na stronie wyslano 191 atakow
+Czas: 4
+starts at 2017-10-01 21:59
+starts at 2017-10-01 21:59
+koniec konnych 10-01 22:17 bo uplynal czas 30 min wyslano 764 atakow
+Czas: 18
+starts at 2017-10-01 22:20
+koniec konnych 10-01 22:22 bo Skonczyly sie wioski (do pierwszej) wyslano 99 atakow
+Czas: 3
+starts at 2017-10-02 19:22
+starts at 2017-10-02 19:32
+koniec konnych 10-02 19:47 bo zrobilo 111 wiosek wyslano 584 atakow
+Czas: 15
+starts at 2017-10-02 20:48
+koniec konnych 10-02 20:50 bo nie znaleziono tabelki z poprzednich atakow wyslano 134 atakow
+Czas: 3
+starts at 2017-10-02 20:54
+koniec konnych 10-02 21:09 bo zrobilo 111 wiosek wyslano 625 atakow
+Czas: 15
+starts at 2017-10-02 23:01
+koniec konnych 10-02 23:21 bo uplynal czas 30 min wyslano 840 atakow
+Czas: 19
+starts at 2017-10-03 17:35
+koniec konnych 10-03 17:56 bo uplynal czas 30 min wyslano 1004 atakow
+Czas: 21
+starts at 2017-10-03 22:44
+starts at 2017-10-03 22:51
+koniec konnych 10-03 23:01 bo wykryto slowo ochrona na stronie wyslano 465 atakow
+Czas: 10
+starts at 2017-10-04 17:02
+koniec konnych 10-04 17:04 bo nie znaleziono tabelki z poprzednich atakow wyslano 64 atakow
+Czas: 1
+starts at 2017-10-04 17:09
+koniec konnych 10-04 17:26 bo uplynal czas 30 min wyslano 719 atakow
+Czas: 18
+starts at 2017-10-04 17:33
+starts at 2017-10-04 17:35
+koniec konnych 10-04 17:36 bo Skonczyly sie wioski (do pierwszej) wyslano 73 atakow
+Czas: 2
+starts at 2017-10-04 21:39
+koniec konnych 10-04 21:54 bo Skonczyly sie wioski (do pierwszej) wyslano 740 atakow
+Czas: 15
+starts at 2017-10-04 23:03
+koniec konnych 10-04 23:10 bo Skonczyly sie wioski (do pierwszej) wyslano 315 atakow
+Czas: 7
+starts at 2017-10-05 10:14
+koniec konnych 10-05 10:15 bo nie znaleziono tabelki z poprzednich atakow wyslano 45 atakow
+Czas: 1
+starts at 2017-10-05 11:36
+koniec konnych 10-05 11:47 bo Skonczyly sie wioski (do pierwszej) wyslano 564 atakow
+Czas: 12
+starts at 2017-10-05 14:35
+koniec konnych 10-05 14:49 bo Skonczyly sie wioski (do pierwszej) wyslano 720 atakow
+Czas: 14
+starts at 2017-10-09 10:53
+koniec konnych 10-09 10:59 bo Skonczyly sie wioski (do pierwszej) wyslano 168 atakow
+Czas: 6
+starts at 2017-10-09 23:42
+starts at 2017-10-09 23:47
+koniec konnych 10-09 23:53 bo Skonczyly sie wioski (do pierwszej) wyslano 211 atakow
+Czas: 6
+starts at 2017-10-10 07:57
+koniec konnych 10-10 08:05 bo Skonczyly sie wioski (do pierwszej) wyslano 311 atakow
+Czas: 8
+starts at 2017-10-10 20:05
+koniec konnych 10-10 20:05 bo nie znaleziono tabelki z poprzednich atakow wyslano 17 atakow
+Czas: 0
+starts at 2017-10-10 20:06
+koniec konnych 10-10 20:16 bo Skonczyly sie wioski (do pierwszej) wyslano 338 atakow
+Czas: 9

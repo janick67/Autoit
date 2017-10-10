@@ -1,0 +1,1022 @@
+GET /trening_normal_ajax.php HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=k2uhfu4r55kbvn1hg09lkk8ee5
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 12 Jun 2013 12:46:08 GMT
+Server: lighttpd (Gentoo Linux)
+
+640
+<div class="pasus" style="width: 653px;">
+											<div class="pct_var">
+											<div class="pasek_left" style="width: 620px;">
+											<span id="time_left"><b>Obrona</b>  (508.435 poziom) &nbsp;&nbsp;&nbsp; 
+											<span id="zostalo_1">6 sek.</span>
+											</div>
+											<div class="pasek_przerwij"><a onClick="Menu('trening_normal_ajax.php?id=84871716', 'wczytaj_trening', 'no')" style="font-size: 10px;">[X]</a></div> 
+											<div class="pasek_clear"></div>
+											</span> 
+											</div>
+											<div id="passiorro_1" style="width: 60%; height: 17px; background: center top url('images/lay/menu_bg.png'); margin-top: -15px;; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;">
+											
+										
+				</div>
+				</div><div class="pasus" style="width: 653px;">
+											<div class="pct_var">
+											<div class="pasek_left" style="width: 620px;">
+											<span id="time_left"><b>Skuteczno뜻</b>  (14.090 poziom) &nbsp;&nbsp;&nbsp; 
+											<span id="zostalo_1">8 sek.</span>
+											</div>
+											<div class="pasek_przerwij"><a onClick="Menu('trening_normal_ajax.php?id=84871717', 'wczytaj_trening', 'no')" style="font-size: 10px;">[X]</a></div> 
+											<div class="pasek_clear"></div>
+											</span> 
+											</div>
+											<div id="passiorro_1" style="width: 46.67%; height: 17px; background: center top url('images/lay/menu_bg.png'); margin-top: -15px;; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;">
+											
+										
+				</div>
+				</div>	
+0
+
+
+
+GET /trening_normal_ajax.php HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=k2uhfu4r55kbvn1hg09lkk8ee5
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 12 Jun 2013 12:46:10 GMT
+Server: lighttpd (Gentoo Linux)
+
+640
+<div class="pasus" style="width: 653px;">
+											<div class="pct_var">
+											<div class="pasek_left" style="width: 620px;">
+											<span id="time_left"><b>Obrona</b>  (508.435 poziom) &nbsp;&nbsp;&nbsp; 
+											<span id="zostalo_1">4 sek.</span>
+											</div>
+											<div class="pasek_przerwij"><a onClick="Menu('trening_normal_ajax.php?id=84871716', 'wczytaj_trening', 'no')" style="font-size: 10px;">[X]</a></div> 
+											<div class="pasek_clear"></div>
+											</span> 
+											</div>
+											<div id="passiorro_1" style="width: 73.33%; height: 17px; background: center top url('images/lay/menu_bg.png'); margin-top: -15px;; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;">
+											
+										
+				</div>
+				</div><div class="pasus" style="width: 653px;">
+											<div class="pct_var">
+											<div class="pasek_left" style="width: 620px;">
+											<span id="time_left"><b>Skuteczno뜻</b>  (14.090 poziom) &nbsp;&nbsp;&nbsp; 
+											<span id="zostalo_1">6 sek.</span>
+											</div>
+											<div class="pasek_przerwij"><a onClick="Menu('trening_normal_ajax.php?id=84871717', 'wczytaj_trening', 'no')" style="font-size: 10px;">[X]</a></div> 
+											<div class="pasek_clear"></div>
+											</span> 
+											</div>
+											<div id="passiorro_1" style="width: 60%; height: 17px; background: center top url('images/lay/menu_bg.png'); margin-top: -15px;; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;">
+											
+										
+				</div>
+				</div>	
+0
+
+
+
+GET /trening_normal_ajax.php HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=id4motlrdg26or9v8ds8g2vsq2
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Thu, 13 Jun 2013 08:43:14 GMT
+Server: lighttpd (Gentoo Linux)
+
+643
+<div class="pasus" style="width: 653px;">
+											<div class="pct_var">
+											<div class="pasek_left" style="width: 620px;">
+											<span id="time_left"><b>Obrona</b>  (509.144 poziom) &nbsp;&nbsp;&nbsp; 
+											<span id="zostalo_1">1 sek.</span>
+											</div>
+											<div class="pasek_przerwij"><a onClick="Menu('trening_normal_ajax.php?id=84894480', 'wczytaj_trening', 'no')" style="font-size: 10px;">[X]</a></div> 
+											<div class="pasek_clear"></div>
+											</span> 
+											</div>
+											<div id="passiorro_1" style="width: 93.33%; height: 17px; background: center top url('images/lay/menu_bg.png'); margin-top: -15px;; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;">
+											
+										
+				</div>
+				</div><div class="pasus" style="width: 653px;">
+											<div class="pct_var">
+											<div class="pasek_left" style="width: 620px;">
+											<span id="time_left"><b>Skuteczno뜻</b>  (14.609 poziom) &nbsp;&nbsp;&nbsp; 
+											<span id="zostalo_1">2 sek.</span>
+											</div>
+											<div class="pasek_przerwij"><a onClick="Menu('trening_normal_ajax.php?id=84894482', 'wczytaj_trening', 'no')" style="font-size: 10px;">[X]</a></div> 
+											<div class="pasek_clear"></div>
+											</span> 
+											</div>
+											<div id="passiorro_1" style="width: 86.67%; height: 17px; background: center top url('images/lay/menu_bg.png'); margin-top: -15px;; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;">
+											
+										
+				</div>
+				</div>	
+0
+
+
+
+GET /trening_normal_ajax.php HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=id4motlrdg26or9v8ds8g2vsq2
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Thu, 13 Jun 2013 08:43:16 GMT
+Server: lighttpd (Gentoo Linux)
+
+639
+<div class="pasus" style="width: 653px;">
+											<div class="pct_var">
+											<div class="pasek_left" style="width: 620px;">
+											<span id="time_left"><b>Obrona</b>  (509.144 poziom) &nbsp;&nbsp;&nbsp; 
+											<span id="zostalo_1">...</span>
+											</div>
+											<div class="pasek_przerwij"><a onClick="Menu('trening_normal_ajax.php?id=84894480', 'wczytaj_trening', 'no')" style="font-size: 10px;">[X]</a></div> 
+											<div class="pasek_clear"></div>
+											</span> 
+											</div>
+											<div id="passiorro_1" style="width: 100%; height: 17px; background: center top url('images/lay/menu_bg.png'); margin-top: -15px;; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;">
+											
+										
+				</div>
+				</div><div class="pasus" style="width: 653px;">
+											<div class="pct_var">
+											<div class="pasek_left" style="width: 620px;">
+											<span id="time_left"><b>Skuteczno뜻</b>  (14.609 poziom) &nbsp;&nbsp;&nbsp; 
+											<span id="zostalo_1">...</span>
+											</div>
+											<div class="pasek_przerwij"><a onClick="Menu('trening_normal_ajax.php?id=84894482', 'wczytaj_trening', 'no')" style="font-size: 10px;">[X]</a></div> 
+											<div class="pasek_clear"></div>
+											</span> 
+											</div>
+											<div id="passiorro_1" style="width: 100%; height: 17px; background: center top url('images/lay/menu_bg.png'); margin-top: -15px;; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;">
+											
+										
+				</div>
+				</div>	
+0
+
+
+
+GET /trening_normal_ajax.php HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=p33plm1b6geeu45eaag66rkmq7
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Thu, 13 Jun 2013 08:48:06 GMT
+Server: lighttpd (Gentoo Linux)
+
+63e
+<div class="pasus" style="width: 653px;">
+											<div class="pct_var">
+											<div class="pasek_left" style="width: 620px;">
+											<span id="time_left"><b>Obrona</b>  (509.160 poziom) &nbsp;&nbsp;&nbsp; 
+											<span id="zostalo_1">...</span>
+											</div>
+											<div class="pasek_przerwij"><a onClick="Menu('trening_normal_ajax.php?id=84894673', 'wczytaj_trening', 'no')" style="font-size: 10px;">[X]</a></div> 
+											<div class="pasek_clear"></div>
+											</span> 
+											</div>
+											<div id="passiorro_1" style="width: 100%; height: 17px; background: center top url('images/lay/menu_bg.png'); margin-top: -15px;; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;">
+											
+										
+				</div>
+				</div><div class="pasus" style="width: 653px;">
+											<div class="pct_var">
+											<div class="pasek_left" style="width: 620px;">
+											<span id="time_left"><b>Skuteczno뜻</b>  (14.625 poziom) &nbsp;&nbsp;&nbsp; 
+											<span id="zostalo_1">1 sek.</span>
+											</div>
+											<div class="pasek_przerwij"><a onClick="Menu('trening_normal_ajax.php?id=84894675', 'wczytaj_trening', 'no')" style="font-size: 10px;">[X]</a></div> 
+											<div class="pasek_clear"></div>
+											</span> 
+											</div>
+											<div id="passiorro_1" style="width: 93.33%; height: 17px; background: center top url('images/lay/menu_bg.png'); margin-top: -15px;; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;">
+											
+										
+				</div>
+				</div>	
+0
+
+
+
+GET /trening_normal_ajax.php HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=p33plm1b6geeu45eaag66rkmq7
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Thu, 13 Jun 2013 08:48:08 GMT
+Server: lighttpd (Gentoo Linux)
+
+1
+	
+0
+
+
+
+GET /trening_normal_ajax.php HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=p33plm1b6geeu45eaag66rkmq7
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Thu, 13 Jun 2013 08:48:14 GMT
+Server: lighttpd (Gentoo Linux)
+
+641
+<div class="pasus" style="width: 653px;">
+											<div class="pct_var">
+											<div class="pasek_left" style="width: 620px;">
+											<span id="time_left"><b>Obrona</b>  (509.161 poziom) &nbsp;&nbsp;&nbsp; 
+											<span id="zostalo_1">9 sek.</span>
+											</div>
+											<div class="pasek_przerwij"><a onClick="Menu('trening_normal_ajax.php?id=84894685', 'wczytaj_trening', 'no')" style="font-size: 10px;">[X]</a></div> 
+											<div class="pasek_clear"></div>
+											</span> 
+											</div>
+											<div id="passiorro_1" style="width: 40%; height: 17px; background: center top url('images/lay/menu_bg.png'); margin-top: -15px;; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;">
+											
+										
+				</div>
+				</div><div class="pasus" style="width: 653px;">
+											<div class="pct_var">
+											<div class="pasek_left" style="width: 620px;">
+											<span id="time_left"><b>Skuteczno뜻</b>  (14.626 poziom) &nbsp;&nbsp;&nbsp; 
+											<span id="zostalo_1">11 sek.</span>
+											</div>
+											<div class="pasek_przerwij"><a onClick="Menu('trening_normal_ajax.php?id=84894686', 'wczytaj_trening', 'no')" style="font-size: 10px;">[X]</a></div> 
+											<div class="pasek_clear"></div>
+											</span> 
+											</div>
+											<div id="passiorro_1" style="width: 26.67%; height: 17px; background: center top url('images/lay/menu_bg.png'); margin-top: -15px;; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;">
+											
+										
+				</div>
+				</div>	
+0
+
+
+
+GET /trening_normal_ajax.php HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=p33plm1b6geeu45eaag66rkmq7
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Thu, 13 Jun 2013 08:48:15 GMT
+Server: lighttpd (Gentoo Linux)
+
+644
+<div class="pasus" style="width: 653px;">
+											<div class="pct_var">
+											<div class="pasek_left" style="width: 620px;">
+											<span id="time_left"><b>Obrona</b>  (509.161 poziom) &nbsp;&nbsp;&nbsp; 
+											<span id="zostalo_1">8 sek.</span>
+											</div>
+											<div class="pasek_przerwij"><a onClick="Menu('trening_normal_ajax.php?id=84894685', 'wczytaj_trening', 'no')" style="font-size: 10px;">[X]</a></div> 
+											<div class="pasek_clear"></div>
+											</span> 
+											</div>
+											<div id="passiorro_1" style="width: 46.67%; height: 17px; background: center top url('images/lay/menu_bg.png'); margin-top: -15px;; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;">
+											
+										
+				</div>
+				</div><div class="pasus" style="width: 653px;">
+											<div class="pct_var">
+											<div class="pasek_left" style="width: 620px;">
+											<span id="time_left"><b>Skuteczno뜻</b>  (14.626 poziom) &nbsp;&nbsp;&nbsp; 
+											<span id="zostalo_1">10 sek.</span>
+											</div>
+											<div class="pasek_przerwij"><a onClick="Menu('trening_normal_ajax.php?id=84894686', 'wczytaj_trening', 'no')" style="font-size: 10px;">[X]</a></div> 
+											<div class="pasek_clear"></div>
+											</span> 
+											</div>
+											<div id="passiorro_1" style="width: 33.33%; height: 17px; background: center top url('images/lay/menu_bg.png'); margin-top: -15px;; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;">
+											
+										
+				</div>
+				</div>	
+0
+
+
+
+GET /trening_normal_ajax.php HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=p33plm1b6geeu45eaag66rkmq7
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Thu, 13 Jun 2013 08:48:32 GMT
+Server: lighttpd (Gentoo Linux)
+
+641
+<div class="pasus" style="width: 653px;">
+											<div class="pct_var">
+											<div class="pasek_left" style="width: 620px;">
+											<span id="time_left"><b>Obrona</b>  (509.162 poziom) &nbsp;&nbsp;&nbsp; 
+											<span id="zostalo_1">9 sek.</span>
+											</div>
+											<div class="pasek_przerwij"><a onClick="Menu('trening_normal_ajax.php?id=84894696', 'wczytaj_trening', 'no')" style="font-size: 10px;">[X]</a></div> 
+											<div class="pasek_clear"></div>
+											</span> 
+											</div>
+											<div id="passiorro_1" style="width: 40%; height: 17px; background: center top url('images/lay/menu_bg.png'); margin-top: -15px;; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;">
+											
+										
+				</div>
+				</div><div class="pasus" style="width: 653px;">
+											<div class="pct_var">
+											<div class="pasek_left" style="width: 620px;">
+											<span id="time_left"><b>Skuteczno뜻</b>  (14.627 poziom) &nbsp;&nbsp;&nbsp; 
+											<span id="zostalo_1">10 sek.</span>
+											</div>
+											<div class="pasek_przerwij"><a onClick="Menu('trening_normal_ajax.php?id=84894698', 'wczytaj_trening', 'no')" style="font-size: 10px;">[X]</a></div> 
+											<div class="pasek_clear"></div>
+											</span> 
+											</div>
+											<div id="passiorro_1" style="width: 33.33%; height: 17px; background: center top url('images/lay/menu_bg.png'); margin-top: -15px;; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;">
+											
+										
+				</div>
+				</div>	
+0
+
+
+
+GET /trening_normal_ajax.php HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=p33plm1b6geeu45eaag66rkmq7
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Thu, 13 Jun 2013 08:48:34 GMT
+Server: lighttpd (Gentoo Linux)
+
+643
+<div class="pasus" style="width: 653px;">
+											<div class="pct_var">
+											<div class="pasek_left" style="width: 620px;">
+											<span id="time_left"><b>Obrona</b>  (509.162 poziom) &nbsp;&nbsp;&nbsp; 
+											<span id="zostalo_1">7 sek.</span>
+											</div>
+											<div class="pasek_przerwij"><a onClick="Menu('trening_normal_ajax.php?id=84894696', 'wczytaj_trening', 'no')" style="font-size: 10px;">[X]</a></div> 
+											<div class="pasek_clear"></div>
+											</span> 
+											</div>
+											<div id="passiorro_1" style="width: 53.33%; height: 17px; background: center top url('images/lay/menu_bg.png'); margin-top: -15px;; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;">
+											
+										
+				</div>
+				</div><div class="pasus" style="width: 653px;">
+											<div class="pct_var">
+											<div class="pasek_left" style="width: 620px;">
+											<span id="time_left"><b>Skuteczno뜻</b>  (14.627 poziom) &nbsp;&nbsp;&nbsp; 
+											<span id="zostalo_1">8 sek.</span>
+											</div>
+											<div class="pasek_przerwij"><a onClick="Menu('trening_normal_ajax.php?id=84894698', 'wczytaj_trening', 'no')" style="font-size: 10px;">[X]</a></div> 
+											<div class="pasek_clear"></div>
+											</span> 
+											</div>
+											<div id="passiorro_1" style="width: 46.67%; height: 17px; background: center top url('images/lay/menu_bg.png'); margin-top: -15px;; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;">
+											
+										
+				</div>
+				</div>	
+0
+
+
+
+GET /trening_normal_ajax.php HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=id4motlrdg26or9v8ds8g2vsq2
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Thu, 13 Jun 2013 08:52:31 GMT
+Server: lighttpd (Gentoo Linux)
+
+641
+<div class="pasus" style="width: 653px;">
+											<div class="pct_var">
+											<div class="pasek_left" style="width: 620px;">
+											<span id="time_left"><b>Obrona</b>  (509.175 poziom) &nbsp;&nbsp;&nbsp; 
+											<span id="zostalo_1">9 sek.</span>
+											</div>
+											<div class="pasek_przerwij"><a onClick="Menu('trening_normal_ajax.php?id=84894883', 'wczytaj_trening', 'no')" style="font-size: 10px;">[X]</a></div> 
+											<div class="pasek_clear"></div>
+											</span> 
+											</div>
+											<div id="passiorro_1" style="width: 40%; height: 17px; background: center top url('images/lay/menu_bg.png'); margin-top: -15px;; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;">
+											
+										
+				</div>
+				</div><div class="pasus" style="width: 653px;">
+											<div class="pct_var">
+											<div class="pasek_left" style="width: 620px;">
+											<span id="time_left"><b>Skuteczno뜻</b>  (14.640 poziom) &nbsp;&nbsp;&nbsp; 
+											<span id="zostalo_1">10 sek.</span>
+											</div>
+											<div class="pasek_przerwij"><a onClick="Menu('trening_normal_ajax.php?id=84894885', 'wczytaj_trening', 'no')" style="font-size: 10px;">[X]</a></div> 
+											<div class="pasek_clear"></div>
+											</span> 
+											</div>
+											<div id="passiorro_1" style="width: 33.33%; height: 17px; background: center top url('images/lay/menu_bg.png'); margin-top: -15px;; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;">
+											
+										
+				</div>
+				</div>	
+0
+
+
+
+GET /trening_normal_ajax.php HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=id4motlrdg26or9v8ds8g2vsq2
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Thu, 13 Jun 2013 08:52:32 GMT
+Server: lighttpd (Gentoo Linux)
+
+640
+<div class="pasus" style="width: 653px;">
+											<div class="pct_var">
+											<div class="pasek_left" style="width: 620px;">
+											<span id="time_left"><b>Obrona</b>  (509.175 poziom) &nbsp;&nbsp;&nbsp; 
+											<span id="zostalo_1">8 sek.</span>
+											</div>
+											<div class="pasek_przerwij"><a onClick="Menu('trening_normal_ajax.php?id=84894883', 'wczytaj_trening', 'no')" style="font-size: 10px;">[X]</a></div> 
+											<div class="pasek_clear"></div>
+											</span> 
+											</div>
+											<div id="passiorro_1" style="width: 46.67%; height: 17px; background: center top url('images/lay/menu_bg.png'); margin-top: -15px;; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;">
+											
+										
+				</div>
+				</div><div class="pasus" style="width: 653px;">
+											<div class="pct_var">
+											<div class="pasek_left" style="width: 620px;">
+											<span id="time_left"><b>Skuteczno뜻</b>  (14.640 poziom) &nbsp;&nbsp;&nbsp; 
+											<span id="zostalo_1">9 sek.</span>
+											</div>
+											<div class="pasek_przerwij"><a onClick="Menu('trening_normal_ajax.php?id=84894885', 'wczytaj_trening', 'no')" style="font-size: 10px;">[X]</a></div> 
+											<div class="pasek_clear"></div>
+											</span> 
+											</div>
+											<div id="passiorro_1" style="width: 40%; height: 17px; background: center top url('images/lay/menu_bg.png'); margin-top: -15px;; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;">
+											
+										
+				</div>
+				</div>	
+0
+
+
+
+GET /trening_normal_ajax.php HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=id4motlrdg26or9v8ds8g2vsq2
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Thu, 13 Jun 2013 08:52:49 GMT
+Server: lighttpd (Gentoo Linux)
+
+641
+<div class="pasus" style="width: 653px;">
+											<div class="pct_var">
+											<div class="pasek_left" style="width: 620px;">
+											<span id="time_left"><b>Obrona</b>  (509.176 poziom) &nbsp;&nbsp;&nbsp; 
+											<span id="zostalo_1">9 sek.</span>
+											</div>
+											<div class="pasek_przerwij"><a onClick="Menu('trening_normal_ajax.php?id=84894897', 'wczytaj_trening', 'no')" style="font-size: 10px;">[X]</a></div> 
+											<div class="pasek_clear"></div>
+											</span> 
+											</div>
+											<div id="passiorro_1" style="width: 40%; height: 17px; background: center top url('images/lay/menu_bg.png'); margin-top: -15px;; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;">
+											
+										
+				</div>
+				</div><div class="pasus" style="width: 653px;">
+											<div class="pct_var">
+											<div class="pasek_left" style="width: 620px;">
+											<span id="time_left"><b>Skuteczno뜻</b>  (14.641 poziom) &nbsp;&nbsp;&nbsp; 
+											<span id="zostalo_1">10 sek.</span>
+											</div>
+											<div class="pasek_przerwij"><a onClick="Menu('trening_normal_ajax.php?id=84894900', 'wczytaj_trening', 'no')" style="font-size: 10px;">[X]</a></div> 
+											<div class="pasek_clear"></div>
+											</span> 
+											</div>
+											<div id="passiorro_1" style="width: 33.33%; height: 17px; background: center top url('images/lay/menu_bg.png'); margin-top: -15px;; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;">
+											
+										
+				</div>
+				</div>	
+0
+
+
+
+GET /trening_normal_ajax.php HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=id4motlrdg26or9v8ds8g2vsq2
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Thu, 13 Jun 2013 08:52:50 GMT
+Server: lighttpd (Gentoo Linux)
+
+640
+<div class="pasus" style="width: 653px;">
+											<div class="pct_var">
+											<div class="pasek_left" style="width: 620px;">
+											<span id="time_left"><b>Obrona</b>  (509.176 poziom) &nbsp;&nbsp;&nbsp; 
+											<span id="zostalo_1">8 sek.</span>
+											</div>
+											<div class="pasek_przerwij"><a onClick="Menu('trening_normal_ajax.php?id=84894897', 'wczytaj_trening', 'no')" style="font-size: 10px;">[X]</a></div> 
+											<div class="pasek_clear"></div>
+											</span> 
+											</div>
+											<div id="passiorro_1" style="width: 46.67%; height: 17px; background: center top url('images/lay/menu_bg.png'); margin-top: -15px;; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;">
+											
+										
+				</div>
+				</div><div class="pasus" style="width: 653px;">
+											<div class="pct_var">
+											<div class="pasek_left" style="width: 620px;">
+											<span id="time_left"><b>Skuteczno뜻</b>  (14.641 poziom) &nbsp;&nbsp;&nbsp; 
+											<span id="zostalo_1">9 sek.</span>
+											</div>
+											<div class="pasek_przerwij"><a onClick="Menu('trening_normal_ajax.php?id=84894900', 'wczytaj_trening', 'no')" style="font-size: 10px;">[X]</a></div> 
+											<div class="pasek_clear"></div>
+											</span> 
+											</div>
+											<div id="passiorro_1" style="width: 40%; height: 17px; background: center top url('images/lay/menu_bg.png'); margin-top: -15px;; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;">
+											
+										
+				</div>
+				</div>	
+0
+
+
+
+GET /trening_normal_ajax.php HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=id4motlrdg26or9v8ds8g2vsq2
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Thu, 13 Jun 2013 08:53:06 GMT
+Server: lighttpd (Gentoo Linux)
+
+641
+<div class="pasus" style="width: 653px;">
+											<div class="pct_var">
+											<div class="pasek_left" style="width: 620px;">
+											<span id="time_left"><b>Obrona</b>  (509.177 poziom) &nbsp;&nbsp;&nbsp; 
+											<span id="zostalo_1">9 sek.</span>
+											</div>
+											<div class="pasek_przerwij"><a onClick="Menu('trening_normal_ajax.php?id=84894914', 'wczytaj_trening', 'no')" style="font-size: 10px;">[X]</a></div> 
+											<div class="pasek_clear"></div>
+											</span> 
+											</div>
+											<div id="passiorro_1" style="width: 40%; height: 17px; background: center top url('images/lay/menu_bg.png'); margin-top: -15px;; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;">
+											
+										
+				</div>
+				</div><div class="pasus" style="width: 653px;">
+											<div class="pct_var">
+											<div class="pasek_left" style="width: 620px;">
+											<span id="time_left"><b>Skuteczno뜻</b>  (14.642 poziom) &nbsp;&nbsp;&nbsp; 
+											<span id="zostalo_1">10 sek.</span>
+											</div>
+											<div class="pasek_przerwij"><a onClick="Menu('trening_normal_ajax.php?id=84894915', 'wczytaj_trening', 'no')" style="font-size: 10px;">[X]</a></div> 
+											<div class="pasek_clear"></div>
+											</span> 
+											</div>
+											<div id="passiorro_1" style="width: 33.33%; height: 17px; background: center top url('images/lay/menu_bg.png'); margin-top: -15px;; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;">
+											
+										
+				</div>
+				</div>	
+0
+
+
+
+GET /trening_normal_ajax.php HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=id4motlrdg26or9v8ds8g2vsq2
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Thu, 13 Jun 2013 08:53:07 GMT
+Server: lighttpd (Gentoo Linux)
+
+640
+<div class="pasus" style="width: 653px;">
+											<div class="pct_var">
+											<div class="pasek_left" style="width: 620px;">
+											<span id="time_left"><b>Obrona</b>  (509.177 poziom) &nbsp;&nbsp;&nbsp; 
+											<span id="zostalo_1">8 sek.</span>
+											</div>
+											<div class="pasek_przerwij"><a onClick="Menu('trening_normal_ajax.php?id=84894914', 'wczytaj_trening', 'no')" style="font-size: 10px;">[X]</a></div> 
+											<div class="pasek_clear"></div>
+											</span> 
+											</div>
+											<div id="passiorro_1" style="width: 46.67%; height: 17px; background: center top url('images/lay/menu_bg.png'); margin-top: -15px;; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;">
+											
+										
+				</div>
+				</div><div class="pasus" style="width: 653px;">
+											<div class="pct_var">
+											<div class="pasek_left" style="width: 620px;">
+											<span id="time_left"><b>Skuteczno뜻</b>  (14.642 poziom) &nbsp;&nbsp;&nbsp; 
+											<span id="zostalo_1">9 sek.</span>
+											</div>
+											<div class="pasek_przerwij"><a onClick="Menu('trening_normal_ajax.php?id=84894915', 'wczytaj_trening', 'no')" style="font-size: 10px;">[X]</a></div> 
+											<div class="pasek_clear"></div>
+											</span> 
+											</div>
+											<div id="passiorro_1" style="width: 40%; height: 17px; background: center top url('images/lay/menu_bg.png'); margin-top: -15px;; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;">
+											
+										
+				</div>
+				</div>	
+0
+
+
+
+GET /trening_normal_ajax.php HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=id4motlrdg26or9v8ds8g2vsq2
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Thu, 13 Jun 2013 08:53:24 GMT
+Server: lighttpd (Gentoo Linux)
+
+640
+<div class="pasus" style="width: 653px;">
+											<div class="pct_var">
+											<div class="pasek_left" style="width: 620px;">
+											<span id="time_left"><b>Obrona</b>  (509.178 poziom) &nbsp;&nbsp;&nbsp; 
+											<span id="zostalo_1">8 sek.</span>
+											</div>
+											<div class="pasek_przerwij"><a onClick="Menu('trening_normal_ajax.php?id=84894930', 'wczytaj_trening', 'no')" style="font-size: 10px;">[X]</a></div> 
+											<div class="pasek_clear"></div>
+											</span> 
+											</div>
+											<div id="passiorro_1" style="width: 46.67%; height: 17px; background: center top url('images/lay/menu_bg.png'); margin-top: -15px;; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;">
+											
+										
+				</div>
+				</div><div class="pasus" style="width: 653px;">
+											<div class="pct_var">
+											<div class="pasek_left" style="width: 620px;">
+											<span id="time_left"><b>Skuteczno뜻</b>  (14.643 poziom) &nbsp;&nbsp;&nbsp; 
+											<span id="zostalo_1">9 sek.</span>
+											</div>
+											<div class="pasek_przerwij"><a onClick="Menu('trening_normal_ajax.php?id=84894931', 'wczytaj_trening', 'no')" style="font-size: 10px;">[X]</a></div> 
+											<div class="pasek_clear"></div>
+											</span> 
+											</div>
+											<div id="passiorro_1" style="width: 40%; height: 17px; background: center top url('images/lay/menu_bg.png'); margin-top: -15px;; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;">
+											
+										
+				</div>
+				</div>	
+0
+
+
+
+GET /trening_normal_ajax.php HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=id4motlrdg26or9v8ds8g2vsq2
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Thu, 13 Jun 2013 08:53:26 GMT
+Server: lighttpd (Gentoo Linux)
+
+640
+<div class="pasus" style="width: 653px;">
+											<div class="pct_var">
+											<div class="pasek_left" style="width: 620px;">
+											<span id="time_left"><b>Obrona</b>  (509.178 poziom) &nbsp;&nbsp;&nbsp; 
+											<span id="zostalo_1">6 sek.</span>
+											</div>
+											<div class="pasek_przerwij"><a onClick="Menu('trening_normal_ajax.php?id=84894930', 'wczytaj_trening', 'no')" style="font-size: 10px;">[X]</a></div> 
+											<div class="pasek_clear"></div>
+											</span> 
+											</div>
+											<div id="passiorro_1" style="width: 60%; height: 17px; background: center top url('images/lay/menu_bg.png'); margin-top: -15px;; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;">
+											
+										
+				</div>
+				</div><div class="pasus" style="width: 653px;">
+											<div class="pct_var">
+											<div class="pasek_left" style="width: 620px;">
+											<span id="time_left"><b>Skuteczno뜻</b>  (14.643 poziom) &nbsp;&nbsp;&nbsp; 
+											<span id="zostalo_1">7 sek.</span>
+											</div>
+											<div class="pasek_przerwij"><a onClick="Menu('trening_normal_ajax.php?id=84894931', 'wczytaj_trening', 'no')" style="font-size: 10px;">[X]</a></div> 
+											<div class="pasek_clear"></div>
+											</span> 
+											</div>
+											<div id="passiorro_1" style="width: 53.33%; height: 17px; background: center top url('images/lay/menu_bg.png'); margin-top: -15px;; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;">
+											
+										
+				</div>
+				</div>	
+0
+
+
+
+GET /trening_normal_ajax.php HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=130svr80r3s5t7l642v1d2f8k5
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Fri, 14 Jun 2013 12:46:14 GMT
+Server: lighttpd (Gentoo Linux)
+
+639
+<div class="pasus" style="width: 653px;">
+											<div class="pct_var">
+											<div class="pasek_left" style="width: 620px;">
+											<span id="time_left"><b>Obrona</b>  (509.743 poziom) &nbsp;&nbsp;&nbsp; 
+											<span id="zostalo_1">...</span>
+											</div>
+											<div class="pasek_przerwij"><a onClick="Menu('trening_normal_ajax.php?id=84935766', 'wczytaj_trening', 'no')" style="font-size: 10px;">[X]</a></div> 
+											<div class="pasek_clear"></div>
+											</span> 
+											</div>
+											<div id="passiorro_1" style="width: 100%; height: 17px; background: center top url('images/lay/menu_bg.png'); margin-top: -15px;; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;">
+											
+										
+				</div>
+				</div><div class="pasus" style="width: 653px;">
+											<div class="pct_var">
+											<div class="pasek_left" style="width: 620px;">
+											<span id="time_left"><b>Skuteczno뜻</b>  (15.098 poziom) &nbsp;&nbsp;&nbsp; 
+											<span id="zostalo_1">...</span>
+											</div>
+											<div class="pasek_przerwij"><a onClick="Menu('trening_normal_ajax.php?id=84935769', 'wczytaj_trening', 'no')" style="font-size: 10px;">[X]</a></div> 
+											<div class="pasek_clear"></div>
+											</span> 
+											</div>
+											<div id="passiorro_1" style="width: 100%; height: 17px; background: center top url('images/lay/menu_bg.png'); margin-top: -15px;; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;">
+											
+										
+				</div>
+				</div>	
+0
+
+
+
+GET /trening_normal_ajax.php HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=mc9mnqq7n7l1ogdb11of1flfm4
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Sat, 15 Jun 2013 13:48:58 GMT
+Server: lighttpd (Gentoo Linux)
+
+639
+<div class="pasus" style="width: 653px;">
+											<div class="pct_var">
+											<div class="pasek_left" style="width: 620px;">
+											<span id="time_left"><b>Obrona</b>  (510.687 poziom) &nbsp;&nbsp;&nbsp; 
+											<span id="zostalo_1">...</span>
+											</div>
+											<div class="pasek_przerwij"><a onClick="Menu('trening_normal_ajax.php?id=84966463', 'wczytaj_trening', 'no')" style="font-size: 10px;">[X]</a></div> 
+											<div class="pasek_clear"></div>
+											</span> 
+											</div>
+											<div id="passiorro_1" style="width: 100%; height: 17px; background: center top url('images/lay/menu_bg.png'); margin-top: -15px;; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;">
+											
+										
+				</div>
+				</div><div class="pasus" style="width: 653px;">
+											<div class="pct_var">
+											<div class="pasek_left" style="width: 620px;">
+											<span id="time_left"><b>Skuteczno뜻</b>  (15.440 poziom) &nbsp;&nbsp;&nbsp; 
+											<span id="zostalo_1">...</span>
+											</div>
+											<div class="pasek_przerwij"><a onClick="Menu('trening_normal_ajax.php?id=84966465', 'wczytaj_trening', 'no')" style="font-size: 10px;">[X]</a></div> 
+											<div class="pasek_clear"></div>
+											</span> 
+											</div>
+											<div id="passiorro_1" style="width: 100%; height: 17px; background: center top url('images/lay/menu_bg.png'); margin-top: -15px;; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;">
+											
+										
+				</div>
+				</div>	
+0
+
+
+
+GET /trening_normal_ajax.php HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=tqnf6qi43bg2ai131i0gj7g800
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Sat, 15 Jun 2013 17:24:36 GMT
+Server: lighttpd (Gentoo Linux)
+
+639
+<div class="pasus" style="width: 653px;">
+											<div class="pct_var">
+											<div class="pasek_left" style="width: 620px;">
+											<span id="time_left"><b>Skuteczno뜻</b>  (15.710 poziom) &nbsp;&nbsp;&nbsp; 
+											<span id="zostalo_1">...</span>
+											</div>
+											<div class="pasek_przerwij"><a onClick="Menu('trening_normal_ajax.php?id=84970050', 'wczytaj_trening', 'no')" style="font-size: 10px;">[X]</a></div> 
+											<div class="pasek_clear"></div>
+											</span> 
+											</div>
+											<div id="passiorro_1" style="width: 100%; height: 17px; background: center top url('images/lay/menu_bg.png'); margin-top: -15px;; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;">
+											
+										
+				</div>
+				</div><div class="pasus" style="width: 653px;">
+											<div class="pct_var">
+											<div class="pasek_left" style="width: 620px;">
+											<span id="time_left"><b>Obrona</b>  (510.956 poziom) &nbsp;&nbsp;&nbsp; 
+											<span id="zostalo_1">...</span>
+											</div>
+											<div class="pasek_przerwij"><a onClick="Menu('trening_normal_ajax.php?id=84970051', 'wczytaj_trening', 'no')" style="font-size: 10px;">[X]</a></div> 
+											<div class="pasek_clear"></div>
+											</span> 
+											</div>
+											<div id="passiorro_1" style="width: 100%; height: 17px; background: center top url('images/lay/menu_bg.png'); margin-top: -15px;; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px;">
+											
+										
+				</div>
+				</div>	
+0
+
+
+

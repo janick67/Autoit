@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<object type="TAForm" name="Form1">
+	<properties>
+		<property name="Left" vt="Int16">563</property>
+		<property name="Top" vt="Int16">363</property>
+		<property name="Width" vt="Int16">299</property>
+		<property name="Height" vt="Int16">144</property>
+		<property name="Caption" vt="String">Form1</property>
+		<property name="Color" vt="Ident">clBtnFace</property>
+		<property name="Font.Charset" vt="Ident">DEFAULT_CHARSET</property>
+		<property name="Font.Color" vt="Ident">clWindowText</property>
+		<property name="Font.Height" vt="Int8">-11</property>
+		<property name="Font.Name" vt="String">MS Sans Serif</property>
+		<property name="Font.Style" vt="Set"/>
+		<property name="OldCreateOrder" vt="False">False</property>
+		<property name="Visible" vt="True">True</property>
+		<property name="Style" vt="Int32">-1798701056</property>
+		<property name="ExStyle" vt="Int16">256</property>
+		<property name="Version" vt="String">1.04</property>
+		<property name="FormOptIndentCount" vt="Int8">0</property>
+		<property name="PixelsPerInch" vt="Int8">96</property>
+		<property name="TextHeight" vt="Int8">13</property>
+	</properties>
+	<components>
+		<object type="TAButton" name="Button1">
+			<properties>
+				<property name="Left" vt="Int16">141</property>
+				<property name="Top" vt="Int8">50</property>
+				<property name="Width" vt="Int8">8</property>
+				<property name="Height" vt="Int8">8</property>
+				<property name="Caption" vt="String">Button1</property>
+				<property name="TabOrder" vt="Int8">0</property>
+				<property name="Color" vt="Ident">clRed</property>
+				<property name="CtrlStyle" vt="Int32">1342390272</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAGraphic" name="Graphic1">
+			<properties>
+				<property name="Left" vt="Int8">20</property>
+				<property name="Top" vt="Int8">15</property>
+				<property name="Width" vt="Int8">30</property>
+				<property name="Height" vt="Int8">10</property>
+				<property name="AutoSize" vt="False">False</property>
+				<property name="Color" vt="Ident">clLime</property>
+				<property name="Font.Charset" vt="Ident">DEFAULT_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clLime</property>
+				<property name="Font.Height" vt="Int8">-11</property>
+				<property name="Font.Name" vt="String">MS Sans Serif</property>
+				<property name="Font.Style" vt="Set"/>
+				<property name="ParentColor" vt="False">False</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">1</property>
+				<property name="CtrlStyle" vt="Int32">1342177536</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="BgColor" vt="Ident">clLime</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAGraphic" name="Graphic2">
+			<properties>
+				<property name="Left" vt="Int8">50</property>
+				<property name="Top" vt="Int8">25</property>
+				<property name="Width" vt="Int8">10</property>
+				<property name="Height" vt="Int8">30</property>
+				<property name="AutoSize" vt="False">False</property>
+				<property name="Color" vt="Ident">clLime</property>
+				<property name="Font.Charset" vt="Ident">DEFAULT_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clLime</property>
+				<property name="Font.Height" vt="Int8">-11</property>
+				<property name="Font.Name" vt="String">MS Sans Serif</property>
+				<property name="Font.Style" vt="Set"/>
+				<property name="ParentColor" vt="False">False</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">2</property>
+				<property name="CtrlStyle" vt="Int32">1342177536</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="BgColor" vt="Ident">clLime</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAGraphic" name="Graphic3">
+			<properties>
+				<property name="Left" vt="Int8">10</property>
+				<property name="Top" vt="Int8">25</property>
+				<property name="Width" vt="Int8">10</property>
+				<property name="Height" vt="Int8">30</property>
+				<property name="AutoSize" vt="False">False</property>
+				<property name="Color" vt="Ident">clLime</property>
+				<property name="Font.Charset" vt="Ident">DEFAULT_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clLime</property>
+				<property name="Font.Height" vt="Int8">-11</property>
+				<property name="Font.Name" vt="String">MS Sans Serif</property>
+				<property name="Font.Style" vt="Set"/>
+				<property name="ParentColor" vt="False">False</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">3</property>
+				<property name="CtrlStyle" vt="Int32">1342177536</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="BgColor" vt="Ident">clLime</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAGraphic" name="Graphic4">
+			<properties>
+				<property name="Left" vt="Int8">19</property>
+				<property name="Top" vt="Int8">56</property>
+				<property name="Width" vt="Int8">30</property>
+				<property name="Height" vt="Int8">10</property>
+				<property name="AutoSize" vt="False">False</property>
+				<property name="Color" vt="Ident">clLime</property>
+				<property name="Font.Charset" vt="Ident">DEFAULT_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clLime</property>
+				<property name="Font.Height" vt="Int8">-11</property>
+				<property name="Font.Name" vt="String">MS Sans Serif</property>
+				<property name="Font.Style" vt="Set"/>
+				<property name="ParentColor" vt="False">False</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">4</property>
+				<property name="CtrlStyle" vt="Int32">1342177536</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="BgColor" vt="Ident">clLime</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAGraphic" name="Graphic5">
+			<properties>
+				<property name="Left" vt="Int8">49</property>
+				<property name="Top" vt="Int8">66</property>
+				<property name="Width" vt="Int8">10</property>
+				<property name="Height" vt="Int8">30</property>
+				<property name="AutoSize" vt="False">False</property>
+				<property name="Color" vt="Ident">clLime</property>
+				<property name="Font.Charset" vt="Ident">DEFAULT_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clLime</property>
+				<property name="Font.Height" vt="Int8">-11</property>
+				<property name="Font.Name" vt="String">MS Sans Serif</property>
+				<property name="Font.Style" vt="Set"/>
+				<property name="ParentColor" vt="False">False</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">5</property>
+				<property name="CtrlStyle" vt="Int32">1342177536</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="BgColor" vt="Ident">clLime</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAGraphic" name="Graphic6">
+			<properties>
+				<property name="Left" vt="Int8">9</property>
+				<property name="Top" vt="Int8">66</property>
+				<property name="Width" vt="Int8">10</property>
+				<property name="Height" vt="Int8">30</property>
+				<property name="AutoSize" vt="False">False</property>
+				<property name="Color" vt="Ident">clLime</property>
+				<property name="Font.Charset" vt="Ident">DEFAULT_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clLime</property>
+				<property name="Font.Height" vt="Int8">-11</property>
+				<property name="Font.Name" vt="String">MS Sans Serif</property>
+				<property name="Font.Style" vt="Set"/>
+				<property name="ParentColor" vt="False">False</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">6</property>
+				<property name="CtrlStyle" vt="Int32">1342177536</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="BgColor" vt="Ident">clLime</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAGraphic" name="Graphic7">
+			<properties>
+				<property name="Left" vt="Int8">16</property>
+				<property name="Top" vt="Int8">97</property>
+				<property name="Width" vt="Int8">30</property>
+				<property name="Height" vt="Int8">10</property>
+				<property name="AutoSize" vt="False">False</property>
+				<property name="Color" vt="Ident">clLime</property>
+				<property name="Font.Charset" vt="Ident">DEFAULT_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clLime</property>
+				<property name="Font.Height" vt="Int8">-11</property>
+				<property name="Font.Name" vt="String">MS Sans Serif</property>
+				<property name="Font.Style" vt="Set"/>
+				<property name="ParentColor" vt="False">False</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">7</property>
+				<property name="CtrlStyle" vt="Int32">1342177536</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="BgColor" vt="Ident">clLime</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAGraphic" name="Graphic8">
+			<properties>
+				<property name="Left" vt="Int8">87</property>
+				<property name="Top" vt="Int8">15</property>
+				<property name="Width" vt="Int8">30</property>
+				<property name="Height" vt="Int8">10</property>
+				<property name="AutoSize" vt="False">False</property>
+				<property name="Color" vt="Ident">clLime</property>
+				<property name="Font.Charset" vt="Ident">DEFAULT_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clLime</property>
+				<property name="Font.Height" vt="Int8">-11</property>
+				<property name="Font.Name" vt="String">MS Sans Serif</property>
+				<property name="Font.Style" vt="Set"/>
+				<property name="ParentColor" vt="False">False</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">8</property>
+				<property name="CtrlStyle" vt="Int32">1342177536</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="BgColor" vt="Ident">clLime</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAGraphic" name="Graphic9">
+			<properties>
+				<property name="Left" vt="Int8">117</property>
+				<property name="Top" vt="Int8">25</property>
+				<property name="Width" vt="Int8">10</property>
+				<property name="Height" vt="Int8">30</property>
+				<property name="AutoSize" vt="False">False</property>
+				<property name="Color" vt="Ident">clLime</property>
+				<property name="Font.Charset" vt="Ident">DEFAULT_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clLime</property>
+				<property name="Font.Height" vt="Int8">-11</property>
+				<property name="Font.Name" vt="String">MS Sans Serif</property>
+				<property name="Font.Style" vt="Set"/>
+				<property name="ParentColor" vt="False">False</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">9</property>
+				<property name="CtrlStyle" vt="Int32">1342177536</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="BgColor" vt="Ident">clLime</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAGraphic" name="Graphic10">
+			<properties>
+				<property name="Left" vt="Int8">77</property>
+				<property name="Top" vt="Int8">25</property>
+				<property name="Width" vt="Int8">10</property>
+				<property name="Height" vt="Int8">30</property>
+				<property name="AutoSize" vt="False">False</property>
+				<property name="Color" vt="Ident">clLime</property>
+				<property name="Font.Charset" vt="Ident">DEFAULT_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clLime</property>
+				<property name="Font.Height" vt="Int8">-11</property>
+				<property name="Font.Name" vt="String">MS Sans Serif</property>
+				<property name="Font.Style" vt="Set"/>
+				<property name="ParentColor" vt="False">False</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">10</property>
+				<property name="CtrlStyle" vt="Int32">1342177536</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="BgColor" vt="Ident">clLime</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAGraphic" name="Graphic11">
+			<properties>
+				<property name="Left" vt="Int8">86</property>
+				<property name="Top" vt="Int8">56</property>
+				<property name="Width" vt="Int8">30</property>
+				<property name="Height" vt="Int8">10</property>
+				<property name="AutoSize" vt="False">False</property>
+				<property name="Color" vt="Ident">clLime</property>
+				<property name="Font.Charset" vt="Ident">DEFAULT_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clLime</property>
+				<property name="Font.Height" vt="Int8">-11</property>
+				<property name="Font.Name" vt="String">MS Sans Serif</property>
+				<property name="Font.Style" vt="Set"/>
+				<property name="ParentColor" vt="False">False</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">11</property>
+				<property name="CtrlStyle" vt="Int32">1342177536</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="BgColor" vt="Ident">clLime</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAGraphic" name="Graphic12">
+			<properties>
+				<property name="Left" vt="Int8">116</property>
+				<property name="Top" vt="Int8">66</property>
+				<property name="Width" vt="Int8">10</property>
+				<property name="Height" vt="Int8">30</property>
+				<property name="AutoSize" vt="False">False</property>
+				<property name="Color" vt="Ident">clLime</property>
+				<property name="Font.Charset" vt="Ident">DEFAULT_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clLime</property>
+				<property name="Font.Height" vt="Int8">-11</property>
+				<property name="Font.Name" vt="String">MS Sans Serif</property>
+				<property name="Font.Style" vt="Set"/>
+				<property name="ParentColor" vt="False">False</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">12</property>
+				<property name="CtrlStyle" vt="Int32">1342177536</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="BgColor" vt="Ident">clLime</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAGraphic" name="Graphic13">
+			<properties>
+				<property name="Left" vt="Int8">76</property>
+				<property name="Top" vt="Int8">66</property>
+				<property name="Width" vt="Int8">10</property>
+				<property name="Height" vt="Int8">30</property>
+				<property name="AutoSize" vt="False">False</property>
+				<property name="Color" vt="Ident">clLime</property>
+				<property name="Font.Charset" vt="Ident">DEFAULT_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clLime</property>
+				<property name="Font.Height" vt="Int8">-11</property>
+				<property name="Font.Name" vt="String">MS Sans Serif</property>
+				<property name="Font.Style" vt="Set"/>
+				<property name="ParentColor" vt="False">False</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">13</property>
+				<property name="CtrlStyle" vt="Int32">1342177536</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="BgColor" vt="Ident">clLime</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAGraphic" name="Graphic14">
+			<properties>
+				<property name="Left" vt="Int8">83</property>
+				<property name="Top" vt="Int8">97</property>
+				<property name="Width" vt="Int8">30</property>
+				<property name="Height" vt="Int8">10</property>
+				<property name="AutoSize" vt="False">False</property>
+				<property name="Color" vt="Ident">clLime</property>
+				<property name="Font.Charset" vt="Ident">DEFAULT_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clLime</property>
+				<property name="Font.Height" vt="Int8">-11</property>
+				<property name="Font.Name" vt="String">MS Sans Serif</property>
+				<property name="Font.Style" vt="Set"/>
+				<property name="ParentColor" vt="False">False</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">14</property>
+				<property name="CtrlStyle" vt="Int32">1342177536</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="BgColor" vt="Ident">clLime</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAGraphic" name="Graphic15">
+			<properties>
+				<property name="Left" vt="Int16">272</property>
+				<property name="Top" vt="Int8">24</property>
+				<property name="Width" vt="Int8">10</property>
+				<property name="Height" vt="Int8">30</property>
+				<property name="AutoSize" vt="False">False</property>
+				<property name="Color" vt="Ident">clLime</property>
+				<property name="Font.Charset" vt="Ident">DEFAULT_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clLime</property>
+				<property name="Font.Height" vt="Int8">-11</property>
+				<property name="Font.Name" vt="String">MS Sans Serif</property>
+				<property name="Font.Style" vt="Set"/>
+				<property name="ParentColor" vt="False">False</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">15</property>
+				<property name="CtrlStyle" vt="Int32">1342177536</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="BgColor" vt="Ident">clLime</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAGraphic" name="Graphic16">
+			<properties>
+				<property name="Left" vt="Int16">242</property>
+				<property name="Top" vt="Int8">14</property>
+				<property name="Width" vt="Int8">30</property>
+				<property name="Height" vt="Int8">10</property>
+				<property name="AutoSize" vt="False">False</property>
+				<property name="Color" vt="Ident">clLime</property>
+				<property name="Font.Charset" vt="Ident">DEFAULT_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clLime</property>
+				<property name="Font.Height" vt="Int8">-11</property>
+				<property name="Font.Name" vt="String">MS Sans Serif</property>
+				<property name="Font.Style" vt="Set"/>
+				<property name="ParentColor" vt="False">False</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">16</property>
+				<property name="CtrlStyle" vt="Int32">1342177536</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="BgColor" vt="Ident">clLime</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAGraphic" name="Graphic17">
+			<properties>
+				<property name="Left" vt="Int16">232</property>
+				<property name="Top" vt="Int8">24</property>
+				<property name="Width" vt="Int8">10</property>
+				<property name="Height" vt="Int8">30</property>
+				<property name="AutoSize" vt="False">False</property>
+				<property name="Color" vt="Ident">clLime</property>
+				<property name="Font.Charset" vt="Ident">DEFAULT_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clLime</property>
+				<property name="Font.Height" vt="Int8">-11</property>
+				<property name="Font.Name" vt="String">MS Sans Serif</property>
+				<property name="Font.Style" vt="Set"/>
+				<property name="ParentColor" vt="False">False</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">17</property>
+				<property name="CtrlStyle" vt="Int32">1342177536</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="BgColor" vt="Ident">clLime</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAGraphic" name="Graphic18">
+			<properties>
+				<property name="Left" vt="Int16">241</property>
+				<property name="Top" vt="Int8">55</property>
+				<property name="Width" vt="Int8">30</property>
+				<property name="Height" vt="Int8">10</property>
+				<property name="AutoSize" vt="False">False</property>
+				<property name="Color" vt="Ident">clLime</property>
+				<property name="Font.Charset" vt="Ident">DEFAULT_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clLime</property>
+				<property name="Font.Height" vt="Int8">-11</property>
+				<property name="Font.Name" vt="String">MS Sans Serif</property>
+				<property name="Font.Style" vt="Set"/>
+				<property name="ParentColor" vt="False">False</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">18</property>
+				<property name="CtrlStyle" vt="Int32">1342177536</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="BgColor" vt="Ident">clLime</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAGraphic" name="Graphic19">
+			<properties>
+				<property name="Left" vt="Int16">238</property>
+				<property name="Top" vt="Int8">96</property>
+				<property name="Width" vt="Int8">30</property>
+				<property name="Height" vt="Int8">10</property>
+				<property name="AutoSize" vt="False">False</property>
+				<property name="Color" vt="Ident">clLime</property>
+				<property name="Font.Charset" vt="Ident">DEFAULT_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clLime</property>
+				<property name="Font.Height" vt="Int8">-11</property>
+				<property name="Font.Name" vt="String">MS Sans Serif</property>
+				<property name="Font.Style" vt="Set"/>
+				<property name="ParentColor" vt="False">False</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">19</property>
+				<property name="CtrlStyle" vt="Int32">1342177536</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="BgColor" vt="Ident">clLime</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAGraphic" name="Graphic20">
+			<properties>
+				<property name="Left" vt="Int16">271</property>
+				<property name="Top" vt="Int8">65</property>
+				<property name="Width" vt="Int8">10</property>
+				<property name="Height" vt="Int8">30</property>
+				<property name="AutoSize" vt="False">False</property>
+				<property name="Color" vt="Ident">clLime</property>
+				<property name="Font.Charset" vt="Ident">DEFAULT_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clLime</property>
+				<property name="Font.Height" vt="Int8">-11</property>
+				<property name="Font.Name" vt="String">MS Sans Serif</property>
+				<property name="Font.Style" vt="Set"/>
+				<property name="ParentColor" vt="False">False</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">20</property>
+				<property name="CtrlStyle" vt="Int32">1342177536</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="BgColor" vt="Ident">clLime</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAGraphic" name="Graphic21">
+			<properties>
+				<property name="Left" vt="Int16">231</property>
+				<property name="Top" vt="Int8">65</property>
+				<property name="Width" vt="Int8">10</property>
+				<property name="Height" vt="Int8">30</property>
+				<property name="AutoSize" vt="False">False</property>
+				<property name="Color" vt="Ident">clLime</property>
+				<property name="Font.Charset" vt="Ident">DEFAULT_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clLime</property>
+				<property name="Font.Height" vt="Int8">-11</property>
+				<property name="Font.Name" vt="String">MS Sans Serif</property>
+				<property name="Font.Style" vt="Set"/>
+				<property name="ParentColor" vt="False">False</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">21</property>
+				<property name="CtrlStyle" vt="Int32">1342177536</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="BgColor" vt="Ident">clLime</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAGraphic" name="Graphic22">
+			<properties>
+				<property name="Left" vt="Int16">204</property>
+				<property name="Top" vt="Int8">65</property>
+				<property name="Width" vt="Int8">10</property>
+				<property name="Height" vt="Int8">30</property>
+				<property name="AutoSize" vt="False">False</property>
+				<property name="Color" vt="Ident">clLime</property>
+				<property name="Font.Charset" vt="Ident">DEFAULT_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clLime</property>
+				<property name="Font.Height" vt="Int8">-11</property>
+				<property name="Font.Name" vt="String">MS Sans Serif</property>
+				<property name="Font.Style" vt="Set"/>
+				<property name="ParentColor" vt="False">False</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">22</property>
+				<property name="CtrlStyle" vt="Int32">1342177536</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="BgColor" vt="Ident">clLime</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAGraphic" name="Graphic23">
+			<properties>
+				<property name="Left" vt="Int16">171</property>
+				<property name="Top" vt="Int8">96</property>
+				<property name="Width" vt="Int8">30</property>
+				<property name="Height" vt="Int8">10</property>
+				<property name="AutoSize" vt="False">False</property>
+				<property name="Color" vt="Ident">clLime</property>
+				<property name="Font.Charset" vt="Ident">DEFAULT_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clLime</property>
+				<property name="Font.Height" vt="Int8">-11</property>
+				<property name="Font.Name" vt="String">MS Sans Serif</property>
+				<property name="Font.Style" vt="Set"/>
+				<property name="ParentColor" vt="False">False</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">23</property>
+				<property name="CtrlStyle" vt="Int32">1342177536</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="BgColor" vt="Ident">clLime</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAGraphic" name="Graphic24">
+			<properties>
+				<property name="Left" vt="Int16">164</property>
+				<property name="Top" vt="Int8">65</property>
+				<property name="Width" vt="Int8">10</property>
+				<property name="Height" vt="Int8">30</property>
+				<property name="AutoSize" vt="False">False</property>
+				<property name="Color" vt="Ident">clLime</property>
+				<property name="Font.Charset" vt="Ident">DEFAULT_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clLime</property>
+				<property name="Font.Height" vt="Int8">-11</property>
+				<property name="Font.Name" vt="String">MS Sans Serif</property>
+				<property name="Font.Style" vt="Set"/>
+				<property name="ParentColor" vt="False">False</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">24</property>
+				<property name="CtrlStyle" vt="Int32">1342177536</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="BgColor" vt="Ident">clLime</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAGraphic" name="Graphic25">
+			<properties>
+				<property name="Left" vt="Int16">174</property>
+				<property name="Top" vt="Int8">55</property>
+				<property name="Width" vt="Int8">30</property>
+				<property name="Height" vt="Int8">10</property>
+				<property name="AutoSize" vt="False">False</property>
+				<property name="Color" vt="Ident">clLime</property>
+				<property name="Font.Charset" vt="Ident">DEFAULT_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clLime</property>
+				<property name="Font.Height" vt="Int8">-11</property>
+				<property name="Font.Name" vt="String">MS Sans Serif</property>
+				<property name="Font.Style" vt="Set"/>
+				<property name="ParentColor" vt="False">False</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">25</property>
+				<property name="CtrlStyle" vt="Int32">1342177536</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="BgColor" vt="Ident">clLime</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAGraphic" name="Graphic26">
+			<properties>
+				<property name="Left" vt="Int16">205</property>
+				<property name="Top" vt="Int8">24</property>
+				<property name="Width" vt="Int8">10</property>
+				<property name="Height" vt="Int8">30</property>
+				<property name="AutoSize" vt="False">False</property>
+				<property name="Color" vt="Ident">clLime</property>
+				<property name="Font.Charset" vt="Ident">DEFAULT_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clLime</property>
+				<property name="Font.Height" vt="Int8">-11</property>
+				<property name="Font.Name" vt="String">MS Sans Serif</property>
+				<property name="Font.Style" vt="Set"/>
+				<property name="ParentColor" vt="False">False</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">26</property>
+				<property name="CtrlStyle" vt="Int32">1342177536</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="BgColor" vt="Ident">clLime</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAGraphic" name="Graphic27">
+			<properties>
+				<property name="Left" vt="Int16">175</property>
+				<property name="Top" vt="Int8">14</property>
+				<property name="Width" vt="Int8">30</property>
+				<property name="Height" vt="Int8">10</property>
+				<property name="AutoSize" vt="False">False</property>
+				<property name="Color" vt="Ident">clLime</property>
+				<property name="Font.Charset" vt="Ident">DEFAULT_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clLime</property>
+				<property name="Font.Height" vt="Int8">-11</property>
+				<property name="Font.Name" vt="String">MS Sans Serif</property>
+				<property name="Font.Style" vt="Set"/>
+				<property name="ParentColor" vt="False">False</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">27</property>
+				<property name="CtrlStyle" vt="Int32">1342177536</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="BgColor" vt="Ident">clLime</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAGraphic" name="Graphic28">
+			<properties>
+				<property name="Left" vt="Int16">165</property>
+				<property name="Top" vt="Int8">24</property>
+				<property name="Width" vt="Int8">10</property>
+				<property name="Height" vt="Int8">30</property>
+				<property name="AutoSize" vt="False">False</property>
+				<property name="Color" vt="Ident">clLime</property>
+				<property name="Font.Charset" vt="Ident">DEFAULT_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clLime</property>
+				<property name="Font.Height" vt="Int8">-11</property>
+				<property name="Font.Name" vt="String">MS Sans Serif</property>
+				<property name="Font.Style" vt="Set"/>
+				<property name="ParentColor" vt="False">False</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">28</property>
+				<property name="CtrlStyle" vt="Int32">1342177536</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="BgColor" vt="Ident">clLime</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAButton" name="Button2">
+			<properties>
+				<property name="Left" vt="Int16">141</property>
+				<property name="Top" vt="Int8">66</property>
+				<property name="Width" vt="Int8">8</property>
+				<property name="Height" vt="Int8">8</property>
+				<property name="Caption" vt="String">Button1</property>
+				<property name="TabOrder" vt="Int8">29</property>
+				<property name="Color" vt="Ident">clRed</property>
+				<property name="CtrlStyle" vt="Int32">1342390272</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+	</components>
+</object>

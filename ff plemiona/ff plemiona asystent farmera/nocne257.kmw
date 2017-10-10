@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<KMWakeup Version="1">
+<Alarm Active="1" Type="wakeup" Frequency="everyday">
+<Date Year="2017" Month="9" Day="24" DayOfWeek="0"/>
+<Time Hour="0" Min="21" Sec="7"/>
+<Comment/>
+<Message Active="0"/>
+<Sound Active="0"/>
+<Program Active="1">D:\Dropbox\autoit\ff plemiona\ff plemiona asystent farmera\af.exe</Program>
+</Alarm>
+<Alarm Active="1" Type="wakeup" Frequency="everyday">
+<Date Year="2017" Month="9" Day="24" DayOfWeek="0"/>
+<Time Hour="3" Min="7" Sec="28"/>
+<Comment/>
+<Message Active="0"/>
+<Sound Active="0"/>
+<Program Active="1">D:\Dropbox\autoit\ff plemiona\ff plemiona asystent farmera\af.exe</Program>
+</Alarm>
+<Alarm Active="1" Type="wakeup" Frequency="everyday">
+<Date Year="2017" Month="9" Day="24" DayOfWeek="0"/>
+<Time Hour="5" Min="27" Sec="50"/>
+<Comment/>
+<Message Active="0"/>
+<Sound Active="0"/>
+<Program Active="1">D:\Dropbox\autoit\ff plemiona\ff plemiona asystent farmera\af.exe</Program>
+</Alarm>
+</KMWakeup>

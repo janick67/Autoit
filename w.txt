@@ -1,0 +1,12 @@
+POST / HTTP/1.1
+Host: sms.priv.pl
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:15.0) Gecko/20100101 Firefox/15.0.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: pl,en-us;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://sms.priv.pl/
+Cookie: PHPSESSID=4dbbff00cf43a09290f3b0cf99d68f53
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 75
+status=send&siec=889&nr=&number2=142685&tresc=TUMABYCTRESC&od=TUMABYCPODPIS

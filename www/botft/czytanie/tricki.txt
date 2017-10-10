@@ -1,0 +1,143 @@
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Fri, 07 Jun 2013 18:08:35 GMT
+Server: lighttpd (Gentoo Linux)
+
+1450
+
+<!-- (C) stat24 / podstrony -->
+<script type="text/javascript">
+<!--
+document.writeln('<'+'scr'+'ipt type="text/javascript" src="http://s4.hit.stat24.com/_'+(new Date()).getTime()+'/script.js?id=oqHgIrO1f9rW7Iu_GFbKc5dSfQTs94eUtXLdy_QHC0P.Y7/l=11"></'+'scr'+'ipt>');
+//-->
+</script><div class='right_title'>Tricki</div>Witaj w centrum tricków. Mo¿esz tutaj nauczyæ siê ró¿nych umiejêtno¶ci...o ile masz dobr± pamiêæ i szczê¶cie.
+		<br /><br />
+		<br />
+		<table>
+		<td><img src="http://s5.footballteam.pl/images/tricks.png" width="180" /></td>
+		
+		<td>
+		<table width="450" align="center">
+		<tr class="color_b">
+		<td>Nazwa umiejêtno¶ci</td> <td>Poziom</td> <td>Nagroda za nauczenie</td> <td>Akcja</td>
+		</tr>
+		
+		<tr>
+		<td>Przewrotka</td> <td>Max</td> <td></td> <td>
+		</td>
+		</tr>
+		<tr class="color">
+		<td>Drybling</td><td>Max</td> <td></td> <td>
+		</td>
+		</tr>		
+		<tr>
+		<td>Dooko³a ¶wiata</td> <td>Max</td> <td></td> <td>
+		</td>
+		</tr>		
+		<tr class="color">
+		<td>Krzy¿aczek</td> <td>Max</td> <td></td> <td>
+		</td>
+		</tr>		
+		<tr>
+		<td>Przeplatanka</td> <td>Max</td> <td></td> <td>
+		</td>
+		</tr>		
+		<tr class="color">
+		<td>Crossover</td> <td>Max</td> <td></td> <td>
+		</td>
+		</tr>		
+		<tr>
+		<td>No¿yce</td> <td>9</td> <td>400 Obrony</td> <td>
+		<a onClick="Menu('trening_ajax.php?v=tricki&V=StartTrain&Level=9&Trick=nozyce', 'right');">Rozpocznij naukê</a></td>
+		</tr>		
+		<tr class="color">
+		<td>Piêtka</td> <td>2</td> <td>20 Obrony</td> <td>
+		<a onClick="Menu('trening_ajax.php?v=tricki&V=StartTrain&Level=2&Trick=pietka', 'right');">Rozpocznij naukê</a></td>
+		</tr>		
+		<tr>
+		<td>Rabona</td> <td>1</td> <td>10 Obrony</td> <td>
+		<a onClick="Menu('trening_ajax.php?v=tricki&V=StartTrain&Level=1&Trick=rabona', 'right');">Rozpocznij naukê</a></td>
+		</tr>		
+		<tr class="color">
+		<td>Trick Zidane`a</td> <td>1</td> <td>10 Obrony</td> <td>
+		<a onClick="Menu('trening_ajax.php?v=tricki&V=StartTrain&Level=1&Trick=zidanestrick', 'right');">Rozpocznij naukê</a></td>
+		</tr>		
+		<tr>
+		<td>Wolej</td> <td>1</td> <td>10 Obrony</td> <td>
+		<a onClick="Menu('trening_ajax.php?v=tricki&V=StartTrain&Level=1&Trick=wolej', 'right');">Rozpocznij naukê</a></td>
+		</tr>		
+
+		<tr class="color">
+		<td>Zwód</td> <td>1</td> <td>10 Obrony</td> <td>
+		<a onClick="Menu('trening_ajax.php?v=tricki&V=StartTrain&Level=1&Trick=zwod', 'right');">Rozpocznij naukê</a></td>
+		</tr>		
+		<tr>
+		<td>Podcinka</td> <td>1</td> <td>10 Obrony</td> <td>
+		<a onClick="Menu('trening_ajax.php?v=tricki&V=StartTrain&Level=1&Trick=podcinka', 'right');">Rozpocznij naukê</a></td>
+		</tr>		
+		<tr class="color">
+		<td>Przerzutka</td> <td>1</td> <td>10 Obrony</td> <td>
+		<a onClick="Menu('trening_ajax.php?v=tricki&V=StartTrain&Level=1&Trick=przerzutka', 'right');">Rozpocznij naukê</a></td>
+		</tr>		
+		<tr>
+		<td>Kiwka</td> <td>1</td> <td>10 Obrony</td> <td>
+		<a onClick="Menu('trening_ajax.php?v=tricki&V=StartTrain&Level=1&Trick=kiwka', 'right');">Rozpocznij naukê</a></td>
+		</tr>		
+		<tr class="color">
+		<td>Têcza</td> <td>1</td> <td>10 Obrony</td> <td>
+		<a onClick="Menu('trening_ajax.php?v=tricki&V=StartTrain&Level=1&Trick=tecza', 'right');">Rozpocznij naukê</a></td>
+		</tr>		
+		<tr>
+		<td>Elastico</td> <td>1</td> <td>10 Obrony</td> <td>
+		<a onClick="Menu('trening_ajax.php?v=tricki&V=StartTrain&Level=1&Trick=elastico', 'right');">Rozpocznij naukê</a></td>
+		</tr>		
+		<tr class="color">
+		<td>Hokus Pokus</td> <td>1</td> <td>10 Obrony</td> <td>
+		<a onClick="Menu('trening_ajax.php?v=tricki&V=StartTrain&Level=1&Trick=hokus', 'right');">Rozpocznij naukê</a></td>
+		</tr>		
+			
+		<tr>
+		<td>X Over</td> <td>1</td> <td>10 Obrony</td> <td>
+		<a onClick="Menu('trening_ajax.php?v=tricki&V=StartTrain&Level=1&Trick=xover', 'right');">Rozpocznij naukê</a></td>
+		</tr>		
+		<tr class="color">
+		<td>Kopniêcie skorpiona</td> <td>1</td> <td>10 Obrony</td> <td>
+		<a onClick="Menu('trening_ajax.php?v=tricki&V=StartTrain&Level=1&Trick=skorpion', 'right');">Rozpocznij naukê</a></td>
+		</tr>	
+		
+		<tr>
+		<td>Air</td> <td>1</td> <td>10 Obrony</td> <td>
+		<a onClick="Menu('trening_ajax.php?v=tricki&V=StartTrain&Level=1&Trick=air', 'right');">Rozpocznij naukê</a></td>
+		</tr>
+		<tr class="color">
+		<td>Sitdown</td> <td>1</td> <td>10 Obrony</td> <td>
+		<a onClick="Menu('trening_ajax.php?v=tricki&V=StartTrain&Level=1&Trick=sitdown', 'right');">Rozpocznij naukê</a></td>
+		</tr>
+		<tr">
+		<td>Upper</td> <td>1</td> <td>10 Obrony</td> <td>
+		<a onClick="Menu('trening_ajax.php?v=tricki&V=StartTrain&Level=1&Trick=upper', 'right');">Rozpocznij naukê</a></td>
+		</tr>
+		<tr class="color">
+		<td>Ground</td> <td>1</td> <td>10 Obrony</td> <td>
+		<a onClick="Menu('trening_ajax.php?v=tricki&V=StartTrain&Level=1&Trick=ground', 'right');">Rozpocznij naukê</a></td>
+		</tr>
+		<tr>
+		<td>Special</td> <td>1</td> <td>10 Obrony</td> <td>
+		<a onClick="Menu('trening_ajax.php?v=tricki&V=StartTrain&Level=1&Trick=special', 'right');">Rozpocznij naukê</a></td>
+		</tr>
+		
+		</table>
+		</td>
+		</table>
+		<center>
+		<h3 class="wars">Dzi¶ nauczy³e¶ siê 1/3 tricków</h3>
+		</center>
+
+
+0
+

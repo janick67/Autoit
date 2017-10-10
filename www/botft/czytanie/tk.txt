@@ -1,0 +1,25 @@
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Fri, 07 Jun 2013 13:49:03 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d4
+
+<!-- (C) stat24 / podstrony -->
+<script type="text/javascript">
+<!--
+document.writeln('<'+'scr'+'ipt type="text/javascript" src="http://s4.hit.stat24.com/_'+(new Date()).getTime()+'/script.js?id=oqHgIrO1f9rW7Iu_GFbKc5dSfQTs94eUtXLdy_QHC0P.Y7/l=11"></'+'scr'+'ipt>');
+//-->
+</script><div OnClick="Menu('trening_ajax.php?v=tk', 'right'); this.style.display='none';" id="index_alert" style="display: block; height: 100px; cursor: pointer;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d<a  id="x_zamknij">[x]&nbsp;&nbsp;</a></div>
+								
+										<div style="margin-top: 20px;">Z treningu klubowego mo¿na skorzystaæ raz dziennie.</div>
+								
+							</div>
+0
+

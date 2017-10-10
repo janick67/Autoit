@@ -1,0 +1,25 @@
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Fri, 07 Jun 2013 13:47:11 GMT
+Server: lighttpd (Gentoo Linux)
+
+2c2
+
+<!-- (C) stat24 / podstrony -->
+<script type="text/javascript">
+<!--
+document.writeln('<'+'scr'+'ipt type="text/javascript" src="http://s4.hit.stat24.com/_'+(new Date()).getTime()+'/script.js?id=oqHgIrO1f9rW7Iu_GFbKc5dSfQTs94eUtXLdy_QHC0P.Y7/l=11"></'+'scr'+'ipt>');
+//-->
+</script><div OnClick="javascript:window.location.replace('manager.php')" id="index_alert" style="display: block; height: 100px;">
+									<div id="alert_title" OnClick="document.getElementById('index_alert').style.display='none'">Informacja <a  id="x_zamknij">[x]&nbsp;&nbsp;</a></div>
+										
+												<div style="margin-top: 20px;">Dzi¶ ju¿ wyp³aca³e¶ swojemu managerowi pensjê.</div>
+										
+									</div>
+0
+

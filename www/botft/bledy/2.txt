@@ -1,0 +1,28 @@
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Thu, 06 Jun 2013 10:28:59 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0

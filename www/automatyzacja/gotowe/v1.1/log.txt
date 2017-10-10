@@ -1,0 +1,159 @@
+
+[2013 03 17]
+KONIEC
+
+[2013 04 06]
+20:21:51FTP-> Po³¹czono z ftp.strefa.pl@rdzawka+marianie.pl
+20:21:53FTP-> Pobrano plik 1
+20:21:53FTP-> Pobrano plik 2
+20:21:53FTP-> Pobrano plik 3
+20:22:08FTP-> Wys³ano plik indext
+20:22:09FTP-> Wys³ano plik ogloszeniat
+20:22:11FTP-> Wys³ano plik /pliki/ogloszeniaIIwt
+20:25:24FTP-> Roz³¹czono z serwerem ftp
+KONIEC
+
+[2013 04 13]
+21:57:58FTP-> Po³¹czono z ftp.strefa.pl@rdzawka+marianie.pl
+21:57:58FTP-> Pobrano plik 2
+
+[2013 04 13]
+21:58:29FTP-> Po³¹czono z ftp.strefa.pl@rdzawka+marianie.pl
+21:58:30FTP-> Pobrano plik 2
+21:58:36FTP-> Pobrano plik 3
+21:58:49FTP-> Wys³ano plik ogloszeniat
+21:58:56FTP-> Wys³ano plik /pliki/ogloszeniaIIIwt
+21:59:04FTP-> Usuniêto plik ogloszenia
+21:59:05FTP-> Zmieniono nazwe pliku z ogloszeniat na ogloszenia
+21:59:18FTP-> Zmieniono nazwe pliku z /pliki/ogloszeniaIIIwt na /pliki/ogloszeniaIIIw
+21:59:38FTP-> Roz³¹czono z serwerem ftp
+KONIEC
+
+[2013 04 20]
+20:53:54FTP-> Po³¹czono z ftp.strefa.pl@rdzawka+marianie.pl
+20:53:55FTP-> Pobrano plik 2
+20:53:57FTP-> Pobrano plik 3
+20:54:06FTP-> Wys³ano plik ogloszeniat
+20:54:06FTP-> Wys³ano plik /pliki/ogloszeniaIVwt
+20:54:21FTP-> Usuniêto plik ogloszenia
+20:54:21FTP-> Zmieniono nazwe pliku z ogloszeniat na ogloszenia
+20:54:38FTP-> Zmieniono nazwe pliku z /pliki/ogloszeniaIVwt na /pliki/ogloszeniaIVw
+20:55:05FTP-> Roz³¹czono z serwerem ftp
+KONIEC
+
+[2013 04 20]
+20:57:39FTP-> Po³¹czono z ftp.strefa.pl@rdzawka+marianie.pl
+20:57:40FTP-> Pobrano plik 2
+20:57:42FTP-> Pobrano plik 3
+20:57:44FTP-> Wys³ano plik ogloszeniat
+20:57:45FTP-> Wys³ano plik /pliki/ogloszeniaIVwt
+20:57:52FTP-> Usuniêto plik ogloszeniat
+20:58:06FTP-> Usuniêto plik /pliki/ogloszeniaIVwt
+
+[2013 04 28]
+09:58:58FTP-> Po³¹czono z ftp.strefa.pl@rdzawka+marianie.pl
+09:58:59FTP-> Pobrano plik 2
+09:59:07FTP-> Pobrano plik 3
+09:59:17FTP-> Wys³ano plik ogloszeniat
+09:59:17FTP-> Wys³ano plik /pliki/ogloszeniaVwt
+09:59:28FTP-> Usuniêto plik ogloszenia
+09:59:29FTP-> Zmieniono nazwe pliku z ogloszeniat na ogloszenia
+10:01:27FTP-> Usuniêto plik /pliki/ogloszeniaVwt
+10:01:50FTP-> Po³¹czono z ftp.strefa.pl@rdzawka+marianie.pl
+10:01:52FTP-> Pobrano plik 3
+10:02:02FTP-> Wys³ano plik /pliki/ogloszeniaVwt
+10:02:12FTP-> Zmieniono nazwe pliku z /pliki/ogloszeniaVwt na /pliki/ogloszeniaVw
+10:02:59FTP-> Roz³¹czono z serwerem ftp
+KONIEC
+
+[2013 05 02]
+15:46:37FTP-> Po³¹czono z ftp.strefa.pl@rdzawka+marianie.pl
+15:46:40FTP-> Pobrano plik 1
+15:46:53FTP-> Wys³ano plik indext
+15:47:02FTP-> Usuniêto plik indext
+15:47:06FTP-> Po³¹czono z ftp.strefa.pl@rdzawka+marianie.pl
+15:47:07FTP-> Pobrano plik 1
+15:47:17FTP-> Wys³ano plik indext
+15:47:25FTP-> Usuniêto plik indext
+15:47:38FTP-> Po³¹czono z ftp.strefa.pl@rdzawka+marianie.pl
+15:47:39FTP-> Pobrano plik 1
+15:47:42FTP-> Wys³ano plik indext
+15:47:55FTP-> Usuniêto plik index
+15:47:55FTP-> Zmieniono nazwe pliku z indext na index
+15:49:23FTP-> Roz³¹czono z serwerem ftp
+KONIEC
+
+[2013 05 05]
+09:08:01FTP-> Po³¹czono z ftp.strefa.pl@rdzawka+marianie.pl
+09:08:01FTP-> Pobrano plik 2
+09:08:04FTP-> Pobrano plik 3
+09:08:11FTP-> Wys³ano plik ogloszeniat
+09:08:12FTP-> Wys³ano plik /pliki/ogloszeniaVIwt
+09:08:22FTP-> Usuniêto plik ogloszenia
+09:08:22FTP-> Zmieniono nazwe pliku z ogloszeniat na ogloszenia
+09:08:30FTP-> Zmieniono nazwe pliku z /pliki/ogloszeniaVIwt na /pliki/ogloszeniaVIw
+09:09:05FTP-> Roz³¹czono z serwerem ftp
+KONIEC
+
+[2013 05 11]
+22:32:51FTP-> Po³¹czono z ftp.strefa.pl@rdzawka+marianie.pl
+22:32:52FTP-> Pobrano plik 2
+22:33:13FTP-> Wys³ano plik ogloszeniat
+22:33:13FTP-> Wys³ano plik /pliki/ogloszeniaVIIwt
+22:33:24FTP-> Usuniêto plik ogloszenia
+22:33:24FTP-> Zmieniono nazwe pliku z ogloszeniat na ogloszenia
+22:33:38FTP-> Usuniêto plik /pliki/ogloszeniaVIIwt
+22:33:41FTP-> Po³¹czono z ftp.strefa.pl@rdzawka+marianie.pl
+22:33:44FTP-> Wys³ano plik /pliki/ogloszeniaVIIwt
+22:34:47FTP-> Usuniêto plik /pliki/ogloszeniaVIIwt
+22:34:51FTP-> Po³¹czono z ftp.strefa.pl@rdzawka+marianie.pl
+22:34:56FTP-> Wys³ano plik /pliki/ogloszeniaVIIwt
+22:35:08FTP-> Usuniêto plik /pliki/ogloszeniaVIIwt
+22:35:34FTP-> Po³¹czono z ftp.strefa.pl@rdzawka+marianie.pl
+22:35:37FTP-> Wys³ano plik /pliki/ogloszeniaVIIwt
+22:36:04FTP-> Usuniêto plik /pliki/ogloszeniaVIIwt
+22:36:07FTP-> Roz³¹czono z serwerem ftp
+KONIEC
+
+[2013 05 11]
+22:37:58FTP-> Po³¹czono z ftp.strefa.pl@rdzawka+marianie.pl
+22:38:02FTP-> Wys³ano plik /pliki/ogloszeniaVIIwt
+22:38:10FTP-> Zmieniono nazwe pliku z /pliki/ogloszeniaVIIwt na /pliki/ogloszeniaVIIw
+22:38:15FTP-> Roz³¹czono z serwerem ftp
+KONIEC
+
+[2013 05 18]
+21:58:41FTP-> Po³¹czono z ftp.strefa.pl@rdzawka+marianie.pl
+21:58:42FTP-> Pobrano plik 2
+21:58:53FTP-> Wys³ano plik ogloszeniat
+21:58:53FTP-> Wys³ano plik /pliki/ogloszeniaZes³aniadt
+21:59:01FTP-> Usuniêto plik ogloszeniat
+21:59:14FTP-> Usuniêto plik /pliki/ogloszeniaZes³aniadt
+
+[2013 05 18]
+21:59:58FTP-> Po³¹czono z ftp.strefa.pl@rdzawka+marianie.pl
+21:59:58FTP-> Pobrano plik 2
+22:00:03FTP-> Wys³ano plik ogloszeniat
+
+[2013 05 18]
+22:00:41FTP-> Po³¹czono z ftp.strefa.pl@rdzawka+marianie.pl
+22:00:41FTP-> Pobrano plik 2
+22:00:47FTP-> Wys³ano plik ogloszeniat
+22:00:47FTP-> Wys³ano plik /pliki/ogloszeniaZDSt
+22:00:55FTP-> Usuniêto plik ogloszenia
+22:00:55FTP-> Zmieniono nazwe pliku z ogloszeniat na ogloszenia
+22:01:03FTP-> Usuniêto plik /pliki/ogloszeniaZDSt
+22:01:06FTP-> Roz³¹czono z serwerem ftp
+KONIEC
+
+[2013 05 18]
+22:01:56FTP-> Po³¹czono z ftp.strefa.pl@rdzawka+marianie.pl
+22:02:03FTP-> Wys³ano plik /pliki/ogloszeniaZDSt
+22:02:11FTP-> Zmieniono nazwe pliku z /pliki/ogloszeniaZDSt na /pliki/ogloszeniaZDS
+22:02:37FTP-> Roz³¹czono z serwerem ftp
+KONIEC
+
+[2013 05 25]
+22:28:19FTP-> Po³¹czono z ftp.strefa.pl@rdzawka+marianie.pl
+22:28:36FTP-> Roz³¹czono z serwerem ftp
+KONIEC

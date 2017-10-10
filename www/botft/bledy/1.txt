@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Thu, 06 Jun 2013 09:40:03 GMT
+Server: lighttpd (Gentoo Linux)
+
+177
+<div id="index_alert" style="display: block; height: 100px;">
+									<div onClick="document.getElementById('index_alert').style.display = 'none';" id="alert_title">Informacja<a id="x_zamknij">[x]&nbsp;&nbsp;</a></div>
+										
+												<div style="margin-top: 5px;">Nie mo¿esz trenowaæ jednocze¶nie dwóch tych samych umiejêtno¶ci.</div>
+										
+									</div>
+0

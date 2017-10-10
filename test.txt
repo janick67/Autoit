@@ -1,0 +1,6 @@
+Wspó³czynnik 1 dobrany prawid³owo
+Wspó³czynnik 2 dobrany b³êdnie (ustawi³eœ za ma³o, wybra³eœ 9)
+Wspó³czynnik 3 dobrany prawid³owo
+Wspó³czynnik 4 dobrany prawid³owo
+Wspó³czynnik 5 dobrany prawid³owo
+Wspó³czynnik 6 dobrany prawid³owo

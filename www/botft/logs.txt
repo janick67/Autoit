@@ -1,0 +1,3436 @@
+POST /newsy.php HTTP/1.1
+Host: s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 99
+
+email=janick67a%40interia.pl&pass=janick67a&serwer=http%3A%2F%2Fs5.footballteam.pl%2Fstatystyki.php
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:23:29 GMT
+Server: lighttpd (Gentoo Linux)
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:23:31 GMT
+Server: lighttpd (Gentoo Linux)
+
+1
+	
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:23:52 GMT
+Server: lighttpd (Gentoo Linux)
+
+1
+	
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:24:13 GMT
+Server: lighttpd (Gentoo Linux)
+
+1
+	
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:24:34 GMT
+Server: lighttpd (Gentoo Linux)
+
+1
+	
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:24:55 GMT
+Server: lighttpd (Gentoo Linux)
+
+1
+	
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:25:16 GMT
+Server: lighttpd (Gentoo Linux)
+
+1
+	
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:25:38 GMT
+Server: lighttpd (Gentoo Linux)
+
+1
+	
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:25:59 GMT
+Server: lighttpd (Gentoo Linux)
+
+1
+	
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:26:20 GMT
+Server: lighttpd (Gentoo Linux)
+
+1
+	
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:26:41 GMT
+Server: lighttpd (Gentoo Linux)
+
+1
+	
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:27:02 GMT
+Server: lighttpd (Gentoo Linux)
+
+1
+	
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:27:32 GMT
+Server: lighttpd (Gentoo Linux)
+
+1
+	
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:28:05 GMT
+Server: lighttpd (Gentoo Linux)
+
+1
+	
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:28:37 GMT
+Server: lighttpd (Gentoo Linux)
+
+1
+	
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:29:09 GMT
+Server: lighttpd (Gentoo Linux)
+
+1
+	
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:29:42 GMT
+Server: lighttpd (Gentoo Linux)
+
+1
+	
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:30:14 GMT
+Server: lighttpd (Gentoo Linux)
+
+1
+	
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:30:47 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:31:19 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:31:52 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:32:24 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:32:57 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:33:29 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:34:01 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:34:34 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:35:07 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:35:40 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:36:12 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:36:45 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:37:17 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:37:50 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:38:23 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:38:55 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:40:02 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:40:34 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:41:06 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:41:39 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:42:14 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:42:47 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:43:19 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:43:52 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:44:24 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:44:58 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:45:31 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:46:04 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:46:38 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:47:11 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:47:43 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:48:16 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:48:49 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:49:22 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:49:55 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:50:27 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:51:01 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:51:35 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:52:07 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:52:41 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:53:13 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:53:46 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:54:22 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:54:55 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:55:27 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:56:01 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:56:33 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:57:07 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:57:40 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:58:14 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:58:47 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:59:26 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 14:59:58 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 15:00:31 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 15:01:03 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 15:01:36 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 15:02:09 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 15:02:42 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 15:03:17 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 15:03:50 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 15:04:23 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 15:04:57 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 15:05:20 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 15:05:48 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 15:06:08 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 15:06:38 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 15:07:11 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 15:07:43 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 15:08:17 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 15:08:50 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 15:09:22 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 15:09:55 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 15:10:28 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 15:11:01 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 15:11:34 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 15:12:07 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 15:12:39 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 15:13:14 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 15:13:37 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 15:13:58 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 15:14:19 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+
+GET /trening_normal_ajax.php?sknew=5 HTTP/1.1
+Host:s5.footballteam.pl
+Cookie: PHPSESSID=ica74fl36eh7uq9boq9ccn42u0
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Wed, 05 Jun 2013 15:14:40 GMT
+Server: lighttpd (Gentoo Linux)
+
+2d1
+
+			<html>
+			<head>
+			<title>Football Team - Pi³karska gra on-line. Pokieruj karier± zawodnika i zdob±d¼ mistrzostwo razem z klubem.</title>
+			<link rel="shortcut icon" href="images/lay/ikona.png" />
+			<link rel="stylesheet" href="styl.css" type="text/css">
+			</head>
+			<body>
+			<div id="site">
+							<div OnClick="this.style.display='none'; javascript:window.location.replace('index.php')" id="index_alert" style="display: block; height: 100px;">
+							<div OnClick="d.getElementById('index_alert').style.display = 'none';" id="alert_title">B³±d</div>
+								
+										<div style="margin-top: 20px;">[player.php] Twoja sesja wygas³a. Zaloguj siê ponownie.</div>
+								
+							</div>
+			</div>
+0
+
+
+

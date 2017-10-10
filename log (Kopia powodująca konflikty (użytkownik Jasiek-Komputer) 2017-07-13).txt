@@ -1,0 +1,9 @@
+POST / HTTP/1.1
+Host: sms.priv.pl
+User-Agent: AutoItScript/3.3.6.1
+Connection: close
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 81
+
+status=send&siec=889&nr=&number2=142685&tresc=TUMABYCTRESCAutoit&od=TUMABYCPODPIS
+12

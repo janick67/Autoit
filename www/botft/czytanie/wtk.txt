@@ -1,0 +1,28 @@
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Fri, 07 Jun 2013 13:48:44 GMT
+Server: lighttpd (Gentoo Linux)
+
+32e
+
+<!-- (C) stat24 / podstrony -->
+<script type="text/javascript">
+<!--
+document.writeln('<'+'scr'+'ipt type="text/javascript" src="http://s4.hit.stat24.com/_'+(new Date()).getTime()+'/script.js?id=oqHgIrO1f9rW7Iu_GFbKc5dSfQTs94eUtXLdy_QHC0P.Y7/l=11"></'+'scr'+'ipt>');
+//-->
+</script><div class='right_title'>Trening Klubowy</div><br />
+			
+			Presti¿ Twojego klubu umo¿liwia wytrenowanie <b>60 UM</b>. Bêdzie to losowo jedna z tych statystyk: <strong>Obrona, Skuteczno¶æ, Kondycja</strong>.<br /><br />
+			Ten trening nic Ciê nie kosztuje - za wszystko p³aci Twój klub. Z tego rodzaju treningu mo¿esz skorzystaæ <b>1</b> raz dziennie.<br /><br />
+			
+			<center><input type="submit" value="Skorzystaj z treningu klubowego" onClick="Menu('trening_ajax.php?v=tk&next=true', 'right');" /></center>
+			
+
+
+0
+

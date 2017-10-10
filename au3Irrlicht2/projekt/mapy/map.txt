@@ -1,0 +1,7 @@
+#map(600,800,"tlo.bmp");
+#blok("przeszkoda.bmp",40,40,10,600,1);
+#blok("przeszkoda2.bmp",40,40,600,10,1);
+#blok("przeszkoda2.bmp",600,40,600,10,1);
+#blok("przeszkoda.bmp",40,60,10,600,1);
+#mob("mob.bmp",400,600,5,100,0);
+#!#

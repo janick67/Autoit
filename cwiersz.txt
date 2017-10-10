@@ -1,0 +1,6 @@
+[cmd]
+set=@SW_SHOW
+color=67
+title=Wiersz
+prompt=$t:
+dodatek=""

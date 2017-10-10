@@ -1,0 +1,3 @@
+POST http://www.plemiona.pl/index.php?action=login&server_pl60
+
+user=janick67&password=janick67a&cookie=false&clear=true

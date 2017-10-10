@@ -1,0 +1,46 @@
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Fri, 07 Jun 2013 18:19:54 GMT
+Server: lighttpd (Gentoo Linux)
+
+559
+
+<!-- (C) stat24 / podstrony -->
+<script type="text/javascript">
+<!--
+document.writeln('<'+'scr'+'ipt type="text/javascript" src="http://s4.hit.stat24.com/_'+(new Date()).getTime()+'/script.js?id=oqHgIrO1f9rW7Iu_GFbKc5dSfQTs94eUtXLdy_QHC0P.Y7/l=11"></'+'scr'+'ipt>');
+//-->
+</script><div id="index_alert" style="display: block; height: 100px;">
+									<div onClick="document.getElementById('index_alert').style.display = 'none';" id="alert_title">Bank<a id="x_zamknij">[x]&nbsp;&nbsp;</a></div>
+										
+												<div style="margin-top: 5px;">
+Witaj w banku. Mo¿esz tu schowaæ swoje euro na lokatê, dziêki czemu zarobiæ codziennie <b>2%</b> w³o¿onej sumy. Maksymalnie mo¿esz zdeponowaæ <b>10.000.000</b> euro.<br />
+<br />
+<table>
+
+<tr>
+<td>
+Chcê wycofaæ: </td> <td>
+<form id="Form_wyc" onsubmit="Post('bank.php?v=wyc', 'Form_wyc', 'small_alert'); return false;">
+<input type="text" name="wycofaj" value="383.611.435.920" /> <input type="submit" value="Wycofaj" style="width: 100px;" />
+</form>
+</td>
+</tr>
+
+<tr>
+<td>
+Chcê zdeponowaæ: </td> <td><form id="Form_dep" onsubmit="Post('bank.php?v=zdep', 'Form_dep', 'small_alert'); return false;"> <input type="text" name="zdeponuj" value="194.562.444.618" /> <input type="submit" value="Zdeponuj" style="width: 100px;" />
+</form>
+</td>
+</tr>
+
+</table></div>
+										
+									</div>
+0
+

@@ -1,0 +1,198 @@
+[1]
+=
+	
+	
+	
+	
+	
+	
+	Football Team - PiBkarska gra on-line. Pokieruj karier zawodnika i zdobdz mistrzostwo razem z klubem.
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-11769844-2']);
+		_gaq.push(['_setDomainName', '.footballteam.pl']);
+		_gaq.push(['_trackPageview']);
+
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+
+	
+	
+	
+
+
+
+
+
+
+
+	
+
+	
+		
+			
+				ikazi (ID: 108281)
+					Serwer(5): 15:57:02 [Chat]
+				
+				
+				Euro: 0
+				
+				Akcje: 150/150
+				
+				Um: 219.969
+				
+				Forma: 94%
+				
+				Zm: 0%
+			
+		
+	
+	
+	
+		Menu gB wne
+		
+			Statystyki
+			Wyposa|enie
+			Miasto
+			Liga 
+			Reprezentacje 
+			Kluby
+			Rynek
+			Szukaj zawodnika
+			Poczta [0]
+			Premium
+			Karty Kolekcjonerskie
+			Loteria
+			
+						Ustawienia
+			Wyloguj si
+		
+	
+
+	
+		
+			
+				
+					
+						INFORMACJE:
+					
+					
+						
+							Miesic listopad jest miesicem zmian na FT, administracja powoli bdzie wprowadza nowo[ci z s6, kt re gracze wybior. Wszystko bdzie dodawane stopniowo i o wszystkim zostaniecie poinformowani. 						
+					
+				
+			
+		
+		
+		
+		
+		
+		
+		
+		
+			
+			Football Team
+			Miesic listopad jest miesicem zmian na FT, administracja powoli bdzie wprowadza nowo[ci z s6, kt re gracze wybior. Wszystko bdzie dodawane stopniowo i o wszystkim zostaniecie poinformowani. 
+		
+		
+	
+Prywatne Wiadomo[ci
+
+
+
+
+
+
+
+    Wiadomo[ napisana przez Informacja (07.11.2011 15:26:06)
+		Uwaga! Administracja nigdy nie prosi o podanie haseB/e-maili czy unikalnych kod w! Osoby proszce o takie dane to oszu[ci chccy ukra[ konto! ZgBaszaj takie wiadomo[ci do Administracji
+		Niestety nie udaBo Ci si nauczy No|yce na poziomie 5. Szczeg By:
+								Wsp Bczynnik 1 dobrany prawidBowoWsp Bczynnik 2 dobrany bBdnie (wybraBe[ 4, nie udaBo si ustali czy to za du|o czy za maBo - pr buj dalej)Wsp Bczynnik 3 dobrany bBdnie (wybraBe[ 4, nie udaBo si ustali czy to za du|o czy za maBo - pr buj dalej)Wsp Bczynnik 4 dobrany prawidBowoWsp Bczynnik 5 dobrany prawidBowo
+		
+		
+		
+		
+    Skasuj wiadomo[  ||
+		Zapisz wiadomo[  ||
+		Blokuj nadawc  ||
+		ZgBo[ naruszenie zasad ||
+		Odpowiedz
+
+
+
+
+
+
+
+
+
+
+		
+				
+			
+
+	
+	
+	//<![CDATA[
+	document.getElementById('pogoda').style.display = 'none';
+	//]]>
+	
+	
+		
+		
+			
+			
+			
+			
+				
+				Poradniki | 
+				Support | 
+			
+				Regulamin | 
+				Forum |
+				
+									
+					
+					function okno()
+					{
+							window.open('http://rpgtextowe.topka.pl/?we=footballteam',"nazwa_okna");
+							window.open('http://graonline.toplista.pl/?we=footballteam',"nazwa_okna2");
+							window.open('http://gildwars.topka.pl/?we=football',"nazwa_okna3");
+							window.open('http://mmorpg.toplista.pl/?we=footballteam',"nazwa_okna5");
+					}
+					
+					var browser=navigator.appName.toString();
+					if(browser != 'Microsoft Internet Explorer')
+					{
+						document.write('<a href=topka.php onClick="okno()"; style="text-transform: capitalize;">Toplisty</a>');
+					}
+					Toplisty 
+				
+				
+			
+			
+			 Serwer: 95%   2009-2011 footballteam.pl
+		
+		
+		
+
+
+
+
+
+
+
+
+

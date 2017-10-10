@@ -1,0 +1,71 @@
+g³ówna
+GET / HTTP/1.1
+
+logowanie
+POST /newsy.php HTTP/1.1
+
+Content-Length: 99
+email=janick67a%40interia.pl&pass=janick67a&serwer=http%3A%2F%2Fs5.footballteam.pl%2Fstatystyki.php
+
+Normalny trening
+GET /trening.php HTTP/1.1
+
+Normalny trening
+GET /trening_normal_ajax.php?sknew=0-9 HTTP/1.1
+
+Wylogowanie
+GET /index.php?v=end HTTP/1.1
+
+Statystyki
+GET /statystyki.php HTTP/1.1
+
+S³awa
+GET /slawa.php HTTP/1.1
+
+Menager
+GET /manager.php HTTP/1.1
+
+Zap³aæ pensje
+GET /manager_ajax.php?pensja=tak HTTP/1.1
+
+SprawdŸ premie
+GET /manager_ajax.php?bonus=tak HTTP/1.1
+
+Trening klubowy
+GET /trening_ajax.php?v=tk HTTP/1.1
+
+Trening klubowy
+GET /trening_ajax.php?v=tk&next=true HTTP/1.1
+
+Tricki
+GET /trening_ajax.php?v=tricki HTTP/1.1
+
+Trening tricku(otwarcie)
+GET /trening_ajax.php?v=tricki&V=StartTrain&Level=1&Trick=rabona HTTP/1.1
+
+Trening tricku
+POST /trening_ajax.php?v=tricki&V=Go HTTP/1.1
+Content-Length: 28
+wsp_1=5&Level=1&Trick=rabona
+
+Akcje schowek
+GET /akcje_schowek.php HTTP/1.1
+
+Akcje schowek pobierz 
+POST /akcje_schowek.php?v=wyc HTTP/1.1
+Content-Length: 10
+wycofaj=10
+
+Poczta
+GET /poczta.php?v=new HTTP/1.1
+
+Poczta wiadomoœci
+GET /poczta_ajax.php?Step=Recive HTTP/1.1
+
+Czytaj wiadomoœæ
+GET /poczta_ajax.php?Step=Read&id=45581428 HTTP/1.1
+
+Bank
+GET /bank.php HTTP/1.1
+
+

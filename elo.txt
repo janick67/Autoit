@@ -1,0 +1,69 @@
+<tr id="village_70017" class="report_70017 row_a">
+    <td><a onclick="return Accountmanager.farm.deleteReport(70017);" class="" href="#"><img src="https://dspl.innogamescdn.com/8.35/26751/graphic/delete_small.png" title="" alt="" class=""></a></td>
+    <td><img src="https://dspl.innogamescdn.com/8.35/26751/graphic/dots/green.png" class=""> </td>
+    <td><img src="https://dspl.innogamescdn.com/8.35/26751/graphic/max_loot/0.png" class=""> </td>
+            <td><a href="/game.php?village=78477&amp;mode=all&amp;view=90138058&amp;screen=report"> (332|694) K63 </a></td>
+        <td>dzisiaj o 11:19:54</td>
+    <td style="text-align: center;">
+                    <span class="nowrap"><span class="icon header wood" title="Drewno"> </span><span class="res">2<span class="grey">.</span>588</span></span> <span class="nowrap"><span class="icon header stone" title="Glina"> </span><span class="res">1<span class="grey">.</span>216</span></span> <span class="nowrap"><span class="icon header iron" title="Żelazo"> </span><span class="res">1<span class="grey">.</span>913</span></span> 
+            </td>
+    <td style="text-align: center;">3</td>
+    <td>4.1</td>
+            <td>
+                        <a href="#" onclick="return Accountmanager.farm.sendUnits(this, 70017, 27764)" class="farm_village_70017 farm_icon farm_icon_a"></a>
+        </td>
+            <td>
+                        <a href="#" onclick="return Accountmanager.farm.sendUnits(this, 70017, 28355)" class="farm_village_70017 farm_icon farm_icon_b"></a>
+        </td>
+        <td style="text-align: center">
+                    <a href="#" data-units-forecast="{&quot;spear&quot;:0,&quot;sword&quot;:0,&quot;axe&quot;:85,&quot;archer&quot;:0,&quot;spy&quot;:1,&quot;light&quot;:&quot;57&quot;,&quot;marcher&quot;:0,&quot;heavy&quot;:0,&quot;ram&quot;:0,&quot;catapult&quot;:0,&quot;knight&quot;:0,&quot;snob&quot;:0,&quot;militia&quot;:0}" onclick="return Accountmanager.farm.sendUnitsFromReport(this, 70017, 90138058, $(this).data('units-forecast'))" class="farm_village_70017 farm_icon farm_icon_c"></a>
+            </td>
+            <td><a href="/game.php?village=78477&amp;target=70017&amp;screen=place" onclick="Accountmanager.farm.openRallyPoint(70017, event)"><img src="https://dspl.innogamescdn.com/8.35/26751/graphic/buildings/place.png" title="" alt="" class=""></a></td>
+    
+
+<tr id="village_69370" class="report_69370 row_a">
+    <td><a onclick="return Accountmanager.farm.deleteReport(69370);" class="" href="#"><img src="https://dspl.innogamescdn.com/8.35/26751/graphic/delete_small.png" title="" alt="" class=""></a></td>
+    <td><img src="https://dspl.innogamescdn.com/8.35/26751/graphic/dots/green.png" class=""> </td>
+    <td><img src="https://dspl.innogamescdn.com/8.35/26751/graphic/max_loot/0.png" class=""> </td>
+            <td><a href="/game.php?village=78477&amp;mode=all&amp;view=90741339&amp;screen=report"> (338|693) K63 </a></td>
+        <td>dzisiaj o 22:44:55</td>
+    <td style="text-align: center;">
+                    <span class="nowrap"><span class="icon header wood" title="Drewno"> </span><span class="res">72</span></span> <span class="nowrap"><span class="icon header stone" title="Glina"> </span><span class="res">34</span></span> <span class="nowrap"><span class="icon header iron" title="Ĺ»elazo"> </span><span class="res">34</span></span> 
+            </td>
+    <td style="text-align: center;">4</td>
+    <td>2</td>
+            <td>
+                        <a href="#" onclick="return Accountmanager.farm.sendUnits(this, 69370, 27764)" class="farm_village_69370 farm_icon farm_icon_a farm_icon_disabled start_locked"></a>
+        </td>
+            <td>
+                        <a href="#" onclick="return Accountmanager.farm.sendUnits(this, 69370, 28355)" class="farm_village_69370 farm_icon farm_icon_b"></a>
+        </td>
+        <td style="text-align: center">
+                    <a href="#" data-units-forecast="{&quot;spear&quot;:0,&quot;sword&quot;:0,&quot;axe&quot;:13,&quot;archer&quot;:0,&quot;spy&quot;:1,&quot;light&quot;:0,&quot;marcher&quot;:0,&quot;heavy&quot;:0,&quot;ram&quot;:0,&quot;catapult&quot;:0,&quot;knight&quot;:0,&quot;snob&quot;:0,&quot;militia&quot;:0}" onclick="return Accountmanager.farm.sendUnitsFromReport(this, 69370, 90741339, $(this).data('units-forecast'))" class="farm_village_69370 farm_icon farm_icon_c"></a>
+            </td>
+            <td><a href="/game.php?village=78477&amp;target=69370&amp;screen=place" onclick="Accountmanager.farm.openRallyPoint(69370, event)"><img src="https://dspl.innogamescdn.com/8.35/26751/graphic/buildings/place.png" title="" alt="" class=""></a></td>
+    
+
+<tr id="village_68337" class="report_68337 row_a">
+    <td><a onclick="return Accountmanager.farm.deleteReport(68337);" class="" href="#"><img src="https://dspl.innogamescdn.com/8.35/26751/graphic/delete_small.png" title="" alt="" class=""></a></td>
+    <td><img src="https://dspl.innogamescdn.com/8.35/26751/graphic/dots/green.png" class=""> </td>
+    <td><img src="https://dspl.innogamescdn.com/8.35/26751/graphic/max_loot/0.png" class=""> </td>
+            <td><a href="/game.php?village=78477&amp;mode=all&amp;view=90136652&amp;screen=report"> (338|689) K63 </a></td>
+        <td>dzisiaj o 11:18:01</td>
+    <td style="text-align: center;">
+                    <span class="nowrap"><span class="icon header wood" title="Drewno"> </span><span class="res">1<span class="grey">.</span>498</span></span> <span class="nowrap"><span class="icon header stone" title="Glina"> </span><span class="res">2<span class="grey">.</span>026</span></span> <span class="nowrap"><span class="icon header iron" title="Ĺ»elazo"> </span><span class="res">1<span class="grey">.</span>742</span></span> 
+            </td>
+    <td style="text-align: center;">0</td>
+    <td>4.5</td>
+            <td>
+                        <a href="#" onclick="return Accountmanager.farm.sendUnits(this, 68337, 27764)" class="farm_village_68337 farm_icon farm_icon_a farm_icon_disabled start_locked"></a>
+        </td>
+            <td>
+                        <a href="#" onclick="return Accountmanager.farm.sendUnits(this, 68337, 28355)" class="farm_village_68337 farm_icon farm_icon_b"></a>
+        </td>
+        <td style="text-align: center">
+                    <a href="#" data-units-forecast="{&quot;spear&quot;:0,&quot;sword&quot;:0,&quot;axe&quot;:479,&quot;archer&quot;:0,&quot;spy&quot;:1,&quot;light&quot;:0,&quot;marcher&quot;:0,&quot;heavy&quot;:0,&quot;ram&quot;:0,&quot;catapult&quot;:0,&quot;knight&quot;:0,&quot;snob&quot;:0,&quot;militia&quot;:0}" onclick="return Accountmanager.farm.sendUnitsFromReport(this, 68337, 90136652, $(this).data('units-forecast'))" class="farm_village_68337 farm_icon farm_icon_c"></a>
+            </td>
+            <td><a href="/game.php?village=78477&amp;target=68337&amp;screen=place" onclick="Accountmanager.farm.openRallyPoint(68337, event)"><img src="https://dspl.innogamescdn.com/8.35/26751/graphic/buildings/place.png" title="" alt="" class=""></a></td>
+    
+

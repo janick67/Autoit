@@ -1,0 +1,196 @@
+g³ówna
+
+http://s5.footballteam.pl/
+
+GET / HTTP/1.1
+Host: s5.footballteam.pl
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:21.0) Gecko/20100101 Firefox/21.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: pl,en-us;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate
+Cookie: PHPSESSID=5jfloff8683a3vp4aq130p7eo5
+Connection: keep-alive
+Cache-Control: max-age=0
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Mon, 03 Jun 2013 17:18:07 GMT
+Server: lighttpd (Gentoo Linux)
+
+
+logowanie
+http://s5.footballteam.pl/newsy.php
+
+POST /newsy.php HTTP/1.1
+Host: s5.footballteam.pl
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:21.0) Gecko/20100101 Firefox/21.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: pl,en-us;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://s5.footballteam.pl/
+Cookie: PHPSESSID=5jfloff8683a3vp4aq130p7eo5
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 99
+email=janick67a%40interia.pl&pass=janick67a&serwer=http%3A%2F%2Fs5.footballteam.pl%2Fstatystyki.php
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Mon, 03 Jun 2013 17:18:47 GMT
+Server: lighttpd (Gentoo Linux)
+
+S³awa
+http://s5.footballteam.pl/slawa.php
+
+GET /slawa.php HTTP/1.1
+Host: s5.footballteam.pl
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:21.0) Gecko/20100101 Firefox/21.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: pl,en-us;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://s5.footballteam.pl/statystyki.php
+Cookie: PHPSESSID=rtsobtgsdip1n746mstbsi4lm5
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Fri, 07 Jun 2013 13:13:51 GMT
+Server: lighttpd (Gentoo Linux)
+
+
+
+Przejscie do Treningu
+http://s5.footballteam.pl/trening.php
+
+GET /trening.php HTTP/1.1
+Host: s5.footballteam.pl
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:21.0) Gecko/20100101 Firefox/21.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: pl,en-us;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://s5.footballteam.pl/statystyki.php
+Cookie: PHPSESSID=5jfloff8683a3vp4aq130p7eo5
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Mon, 03 Jun 2013 17:09:48 GMT
+Server: lighttpd (Gentoo Linux)
+
+
+Trening
+http://s5.footballteam.pl/trening_normal_ajax.php?sknew=8&ile=3
+
+GET /trening_normal_ajax.php?sknew=7&ile=3 HTTP/1.1
+Host: s5.footballteam.pl
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:21.0) Gecko/20100101 Firefox/21.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: pl,en-us;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://s5.footballteam.pl/trening_normal.php
+Cookie: PHPSESSID=5jfloff8683a3vp4aq130p7eo5
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Mon, 03 Jun 2013 17:13:31 GMT
+Server: lighttpd (Gentoo Linux)
+
+
+Wylogowanie
+http://s5.footballteam.pl/index.php?v=end
+
+GET /index.php?v=end HTTP/1.1
+Host: s5.footballteam.pl
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:21.0) Gecko/20100101 Firefox/21.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: pl,en-us;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://s5.footballteam.pl/statystyki.php
+Cookie: PHPSESSID=rtsobtgsdip1n746mstbsi4lm5
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Fri, 07 Jun 2013 13:07:40 GMT
+Server: lighttpd (Gentoo Linux)
+
+Statystyki
+http://s5.footballteam.pl/statystyki.php
+
+GET /statystyki.php HTTP/1.1
+Host: s5.footballteam.pl
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:21.0) Gecko/20100101 Firefox/21.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: pl,en-us;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://s5.footballteam.pl/newsy.php
+Cookie: PHPSESSID=rtsobtgsdip1n746mstbsi4lm5
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Fri, 07 Jun 2013 13:09:28 GMT
+Server: lighttpd (Gentoo Linux)
+
+http://s5.footballteam.pl/trening_ajax.php?v=week
+
+POST /trening_ajax.php?v=week HTTP/1.1
+Host: s5.footballteam.pl
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:21.0) Gecko/20100101 Firefox/21.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: pl,en-us;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: http://s5.footballteam.pl/trening.php
+Content-Length: 15
+Cookie: PHPSESSID=n729ihfk762l8q2buce74cnla1
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+um=500&skill=ob
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Sun, 09 Jun 2013 17:22:09 GMT
+Server: lighttpd (Gentoo Linux)
+

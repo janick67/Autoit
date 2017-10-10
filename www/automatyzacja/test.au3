@@ -1,0 +1,1 @@
+MsgBox(0,"",FileSetTime("C:\Documents and Settings\Admin\Pulpit\Niedziela palmowa 2013 - Szal\DSCN3798.JPG", "20132403133659",0))

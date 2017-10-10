@@ -1,0 +1,59 @@
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.3.10-pl0-gentoo
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=iso-8859-2
+Transfer-Encoding: chunked
+Date: Thu, 06 Jun 2013 10:03:04 GMT
+Server: lighttpd (Gentoo Linux)
+
+618
+
+
+		<table align="center" border="0" width="100%" style="margin-top: -4px;">
+		<td width="159">
+		
+		<b>Nick: </b>  <a onClick="Menu('player.php?id=108281', 'player_box');" class="menu_click">ikazi</a>
+		<br />
+		<div class="down"></div>
+		
+		<b>ID: </b> 108281		<br />
+		<div class="down"></div>
+		
+		<b  style="cursor: pointer;" onClick="window.location.href='rank.php';">Ranking:</b> 2779		
+		<br />
+		<div class="down"></div>
+		</td>
+		
+		<td width="320"><img src="images/lay_srodek/logo.png" width="300" /></td>
+		
+		
+
+		<td width="140" align="center" valign="top"><img src="/images/lay_srodek/poczta.png" height="33" /><br />
+		<b class="menu_click" style="cursor: pointer;" onClick="window.location.href='poczta.php?v=new';">Poczta:</b> [0]<br />
+		<b>UM:</b> 625.646  
+		
+		</td>
+
+		
+		<td width="144" align="center" valign="top" >
+		
+		<img src="images/lay_srodek/euro.png" height="33"  /><br />
+		<b>Euro:</b> 194.585.348.758<br />
+		<span onClick="Menu('wykres.php?v=um', 'player_box', 'no');" style="cursor: pointer;" class="menu_click"><b>Pot.: </b> 1.708.134 pkt</span>
+		
+		</td>
+		
+		<td width="115" align="center" valign="top"  style="cursor: pointer;">
+		<img src="images/lay_srodek/um.png" height="33"  /><br />
+		<b class="menu_click" style="cursor: pointer;" onClick="Menu('wykres.php?v=forma', 'player_box', 'no');">Forma:</b> 100%<br />
+		<b class="menu_click" style="cursor: pointer;" onClick="Menu('akcje_schowek.php', 'small_alert', 'no');">Akcje:</b> 66/16390</td>
+		
+
+		
+		</table>
+		
+		
+0
+
